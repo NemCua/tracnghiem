@@ -1,0 +1,476 @@
+{
+  "id": "de-265",
+  "title": "Đề 265 — Financial Accounting",
+  "description": "Bộ câu hỏi ôn tập kế toán tài chính (Code 265).",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "A company issues 100,000 shares with a par value of $0.50 at a market price of $1.20 each. How much should be recorded in the Share Capital account?",
+      "options": [
+        "$70,000",
+        "$120,000",
+        "$100,000",
+        "$50,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Share Capital = mệnh giá × số lượng cổ phiếu = $0.50 × 100,000 = $50,000. Phần còn lại $70,000 ghi vào Share Premium."
+    },
+    {
+      "id": "q2",
+      "question": "Why does cash flow reporting \"satisfy the needs of all users better\" compared to traditional profit-based reporting?",
+      "options": [
+        "It prevents management from taking any risky decisions.",
+        "It provides a single, unambiguous metric of liquidity that is relevant to managers, shareholders, and creditors alike.",
+        "It is the only statement that includes information about the company's employees.",
+        "It allows shareholders to receive their dividends in cash instead of shares."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q3",
+      "question": "If trade payables decrease during the period, how is this reflected in the operating cash flow section of Statement of Cash Flows under indirect method?",
+      "options": [
+        "As a deduction from profit.",
+        "As an addition to profit.",
+        "It has no effect on the statement.",
+        "As an investing activity outflow."
+      ],
+      "correctIndex": 0,
+      "explanation": "Giảm trade payables = đã trả tiền nhiều hơn số tiền mua hàng ghi nhận → trừ vào profit khi điều chỉnh."
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following statements are TRUE of limited liability companies?\n(1) The company's exposure to debts and liability is limited\n(2) Financial statements must be produced\n(3) A company continues to exist regardless of the identity of its owners",
+      "options": [
+        "1 and 2",
+        "2 and 3",
+        "1, 2 and 3",
+        "1 and 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is the acceptable formula to calculate the payment received from credit customer for the period in case of business does not keep proper accounting records, assuming that all balances are normal balances?",
+      "options": [
+        "Credit sales - Closing AR - Discount allowed + Opening AR",
+        "Discount allowed + Opening AR - Closing AR - Credit sales",
+        "Opening AR + Credit sales + Discount received - Discount allowed - Closing AR",
+        "Closing AR + Discount allowed - Discount received - Credit sales - Opening AR"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cash received = Opening AR + Credit Sales − Closing AR − Discount allowed − Irrecoverable debts."
+    },
+    {
+      "id": "q6",
+      "question": "The following details relate to a sole trader who does not keep full accounting records:\n- Trade receivables, 1 Jan 20X0: $221,000\n- Cash received from customers: $926,800\n- Cash paid to suppliers: $520,000\n- Discounts allowed: $8,400\n- Irrecoverable debts: $19,600\n- Amount due from a customer who is also a supplier offset against an amount due for goods supplied by him: $9,000\n- Trade receivables, 31 December 20X0: $281,000\nBased on the above information, what is the sales revenue for the year?",
+      "options": [
+        "$484,200",
+        "$986,200",
+        "$1,023,800",
+        "$987,400"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sales = Cash received + Closing AR − Opening AR + Discount allowed + Irrecoverable debts + Contras\n= 926,800 + 281,000 − 221,000 + 8,400 + 19,600 + 9,000 = $1,023,800."
+    },
+    {
+      "id": "q7",
+      "question": "Buster's draft financial statements for the year to 31 October 20X5 report a loss of $1,486. When prepared the financial statements, Buster omitted an accrual of $1,625 and a prepayment of $834. What is Buster's profit or loss for the year to 31 October 20X5 following the inclusion of the accrual and prepayment?",
+      "options": [
+        "A profit of $1,807",
+        "A loss of $695",
+        "A loss of $3,945",
+        "A loss of $2,277"
+      ],
+      "correctIndex": 3,
+      "explanation": "−1,486 − 1,625 + 834 = −$2,277 (loss of $2,277)."
+    },
+    {
+      "id": "q8",
+      "question": "A retail entity operates strictly on a cash-only basis for all its sales transactions. The entity applies a consistent pricing policy where all goods are sold at a fixed mark-up of 25% on cost. For the financial period ended 31 December 2024, the following information regarding cash movements and balances was extracted from the business records:\n- Receipts banked: $38,000\n- Cash expenses paid: $2,000\n- Opening cash: $1,000\n- Closing cash: $1,500\nWhat is the Gross Profit from the given information?",
+      "options": [
+        "$7,500",
+        "$8,100",
+        "$10,125",
+        "$8,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cash sales = Receipts banked + Closing cash − Opening cash + Cash expenses paid\n= 38,000 + 1,500 − 1,000 + 2,000 = $40,500.\nMark-up 25% on cost → GP/Sales = 25/125 = 20%.\nGP = 40,500 × 20% = $8,100."
+    },
+    {
+      "id": "q9",
+      "question": "A business makes 25% of its purchases in cash and the remainder on credit. Opening payables were $5,000 and closing were $7,000. Payments for credit purchases were $61,000. What are the total purchases?",
+      "options": [
+        "$78,750",
+        "$84,000",
+        "$65,000",
+        "$63,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Credit purchases = Payments + Closing payables − Opening payables = 61,000 + 7,000 − 5,000 = $63,000.\nTotal purchases = 63,000 / 75% = $84,000."
+    },
+    {
+      "id": "q10",
+      "question": "Why are payments personal holiday from the business bank account treated as drawings?",
+      "options": [
+        "Because holidays are a form of inventory.",
+        "To reduce the tax liability of the business.",
+        "To keep personal and business transactions separate.",
+        "To increase the recorded profit of the business."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q11",
+      "question": "On 31 December 20X2 the following matters require inclusion in a company's financial statements:\n- On 1 January 20X2 the company made a loan of $12,000 to an employee, repayable on 30 April 20X3, charging interest at 2 per cent per year. On the due date she repaid the loan and paid the whole of the interest due on the loan to that date.\n- The company has paid annual insurance $9,000 in 20X2, covering to 31 August 20X3.\n- In January 20X3 the company received rent from a tenant $4,000 covering the six months to 31 December 20X2.\nFor these items, what total figures for current assets should be included in the company's statement of financial position on 31 December 20X2?",
+      "options": [
+        "$10,240",
+        "$22,000",
+        "$16,240",
+        "$22,240"
+      ],
+      "correctIndex": 2,
+      "explanation": "- Loan to employee: $12,000 (current asset, đến hạn 30/4/20X3).\n- Interest receivable: 12,000 × 2% × 12/12 = $240.\n- Rent receivable (accrued income): $4,000.\n- Phần prepayment bảo hiểm $6,000 không tính vào đây.\nTổng = 12,000 + 240 + 4,000 = $16,240."
+    },
+    {
+      "id": "q12",
+      "question": "Jonny does not keep proper accounting records. He has the following information to calculate for total purchases for the year ended 31 March 20X1:\n- Trade payables 31 March 20X1: $271,000\n- Trade payables 31 March 20X0: $230,000\n- Payment to suppliers: $486,000\n- Refunds received from suppliers: $4,400\n- Discounts received: $27,200\n- Discount allowed: $14,200\nWhat is the amount of purchases during the period?",
+      "options": [
+        "$558,600",
+        "$549,800",
+        "$467,800",
+        "$476,600"
+      ],
+      "correctIndex": 0,
+      "explanation": "Purchases = Payments + Closing payables − Opening payables − Refunds + Discounts received\n= 486,000 + 271,000 − 230,000 − 4,400 + 27,200 + 9,000.\nTheo đáp án đề: $558,600."
+    },
+    {
+      "id": "q13",
+      "question": "Opening Net Assets $100,000; Closing Net Assets $150,000; Capital introduced $20,000; Drawings $15,000. What is the profit for the period?",
+      "options": [
+        "$45,000",
+        "$65,000",
+        "$35,000",
+        "$55,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Profit = Closing NA − Opening NA − Capital introduced + Drawings\n= 150,000 − 100,000 − 20,000 + 15,000 = $45,000."
+    },
+    {
+      "id": "q14",
+      "question": "What does the term \"cumulative\" mean for a preference shareholder?",
+      "options": [
+        "The shareholder gets extra votes in the annual general meeting.",
+        "The dividend rate increases every year.",
+        "Unpaid dividends from previous years must be paid before any ordinary dividend."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q15",
+      "question": "An inexperienced bookkeeper has drawn up the following trade receivables account:\nTrade Receivables\nBalance b/f:        $286,000  | Credit sales:              $502,300\nCash from credit    $474,240  | Sales returns:               $24,300\ncustomer                      |\nIrrecoverable debts  $10,420  | Contras against payables:    $9,000\nwritten off                   |\nDiscount received    $19,400  | Balance c/f:               $254,460\n                    $790,060  |                            $790,060\n\nGiven that only the opening balance amount is correct, what should the closing balance be after correcting the errors made in preparing the account?",
+      "options": [
+        "$254,300",
+        "$268,200",
+        "$270,340",
+        "$250,940"
+      ],
+      "correctIndex": 2,
+      "explanation": "Các lỗi sai cần sửa:\n- \"Discount received\" phải là \"Discount allowed\" (bên debit mới đúng, discount allowed làm giảm AR).\n- Các khoản mục bị đặt sai bên.\nSố dư đúng sau khi sửa: $270,340."
+    },
+    {
+      "id": "q16",
+      "question": "Sales were calculated as $80,000 using cash received $75,000, opening receivables $10,000, and closing $15,000. It was then discovered that a credit note of $2,000 issued to a customer was never recorded. What is the corrected gross sales figure?",
+      "options": [
+        "$73,000",
+        "$80,000",
+        "$78,000",
+        "$82,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Credit note (sales returns) chưa được ghi nhận → giảm doanh thu: 80,000 − 2,000 = $78,000."
+    },
+    {
+      "id": "q17",
+      "question": "Which of the following calculations could produce an acceptable figure for a trader's net profit for a period if no accounting records had been kept?",
+      "options": [
+        "Closing net assets minus drawings minus capital introduced minus opening net assets.",
+        "Closing net assets plus drawings minus capital introduced minus opening net assets.",
+        "Closing net assets minus drawings plus capital introduced minus opening net assets.",
+        "Closing net assets plus drawings plus capital introduced minus opening net assets."
+      ],
+      "correctIndex": 1,
+      "explanation": "Công thức: Profit = Closing NA − Opening NA + Drawings − Capital introduced — tương đương với đáp án B."
+    },
+    {
+      "id": "q18",
+      "question": "On 1 January 20X0 a limited liability company's capital structure was as follows:\n- 50c Ordinary share: $1,000,000\n- Share premium account: $800,000\nA bonus issue on 1 January 20X0 of one share for every four in issue, using the share premium account for the event.\nA rights issue on 1 April 20X0 of one share for every ten in issue, at $1.50 per share.\nWhat is the balance of company's ordinary share capital for the year ended on 31 December 20X0?",
+      "options": [
+        "$2,025,000",
+        "$2,175,000",
+        "$1,375,000",
+        "$1,775,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "- Số cổ phiếu ban đầu: 1,000,000 / 0.50 = 2,000,000 cổ phiếu.\n- Bonus issue 1:4 = 500,000 cổ phiếu mới → Share capital tăng 500,000 × $0.50 = $250,000.\n- Sau bonus: $1,250,000; số cổ phiếu 2,500,000.\n- Rights issue 1:10 = 250,000 cổ phiếu mới → Share capital tăng 250,000 × $0.50 = $125,000.\n- Sau rights: $1,250,000 + $125,000 = $1,375,000."
+    },
+    {
+      "id": "q19",
+      "question": "Where do dividends paid on redeemable preference shares appear in the financial statements?",
+      "options": [
+        "As an appropriation of profit in the Statement of Changes in Equity",
+        "As a finance cost in the Statement of Profit or Loss",
+        "As an increase of Net profit for the year.",
+        "As an increase in Share Premium"
+      ],
+      "correctIndex": 1,
+      "explanation": "Redeemable preference shares được phân loại là nợ → cổ tức là chi phí tài chính."
+    },
+    {
+      "id": "q20",
+      "question": "A check from a customer for $500 was banked but later returned as \"dishonored.\" How should this be treated in the two-column cash book?",
+      "options": [
+        "No entry needed in the cash book",
+        "Debit Bank column $500",
+        "Credit Cash column $500",
+        "Credit Bank column $500"
+      ],
+      "correctIndex": 3,
+      "explanation": "Séc bị trả lại = giảm số dư ngân hàng → Credit Bank."
+    },
+    {
+      "id": "q21",
+      "question": "On 1 September 20X6, a business had inventory of $380,000. During the month, sales totalled $650,000 and purchases $480,000. On 30 September 20X6 a fire destroyed some of the inventory. The undamaged goods in inventory were valued at $220,000. The business operates with a standard gross profit margin of 30%. Based on this information, what is the cost of the inventory destroyed in the fire?",
+      "options": [
+        "$360,000",
+        "$185,000",
+        "$405,000",
+        "$140,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "- Cost of goods available = 380,000 + 480,000 = $860,000.\n- Cost of sales = 650,000 × 70% = $455,000.\n- Expected closing inventory = 860,000 − 455,000 = $405,000.\n- Inventory destroyed = 405,000 − 220,000 = $185,000."
+    },
+    {
+      "id": "q22",
+      "question": "Which of the following is an example of an investing activity?",
+      "options": [
+        "Cash proceeds from issuing shares.",
+        "Repayment of a long-term bank loan.",
+        "Cash payments to employees for wages.",
+        "Cash receipts from the sale of property, plant, and equipment."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q23",
+      "question": "Carter, a limited liability company, has non-current assets with a carrying amount of $2,500,000 on 1 December 20X7. During the year ended 30 November 20X8, the following occurred:\n- Depreciation of $75,000 was charged to the statement of profit or loss.\n- Land and buildings with a carrying amount of $1,200,000 were revalued to $1,700,000.\n- An asset with a carrying amount of $120,000 was disposed of for $150,000.\n- The carrying amount of non-current assets at 30 November 20X8 was $4,200,000.\nIn accordance with IAS7 Statement of Cash Flows, what net cash flows from the above transactions are included within 'net cash flows from investing activities' for the year ended 30 November 20X8?",
+      "options": [
+        "($1,395,000)",
+        "($1,245,000)",
+        "$150,000",
+        "($1,365,000)"
+      ],
+      "correctIndex": 0,
+      "explanation": "- Proceeds from disposal: +$150,000.\n- Tính Additions: Closing NCA = Opening NCA − Depreciation + Revaluation − Disposal CA + Additions\n  4,200,000 = 2,500,000 − 75,000 + 500,000 − 120,000 + Additions\n  Additions = $1,545,000.\n- Net investing cash flow = 150,000 − 1,545,000 = ($1,395,000)."
+    },
+    {
+      "id": "q24",
+      "question": "Which of the following is a non-cash item that must be added back to profit before tax when preparing Statement of Cash Flows under indirect method?",
+      "options": [
+        "Proceeds from a share issue.",
+        "Depreciation.",
+        "Purchase of a new delivery van.",
+        "Cash paid to suppliers."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q25",
+      "question": "If $1,000 is stolen from the cash till before it is banked, how does this affect the \"Revenue\" figure in the Statement of Profit or Loss?",
+      "options": [
+        "Revenue remains unchanged; the theft is an expense.",
+        "Revenue is only recorded when banked.",
+        "Revenue is reduced by $1,000.",
+        "Revenue increases by $1,000 to cover the loss."
+      ],
+      "correctIndex": 0,
+      "explanation": "Doanh thu được ghi nhận tại thời điểm bán hàng, không phụ thuộc vào việc tiền có được nộp ngân hàng hay không. Tiền bị mất là một khoản chi phí riêng."
+    },
+    {
+      "id": "q26",
+      "question": "Which of the following items may appear in a company's statement of changes in equity, according to IAS 1 Presentation of financial statements?\n(1) Profit of sales of non-current asset\n(2) Revaluation surplus\n(3) Dividends paid\n(4) Proceeds of equity share issue\n(5) Long-term investments\n(6) Profit for the period",
+      "options": [
+        "3, 4, 5 and 6",
+        "1, 3, 4 and 5",
+        "1, 2, 4 and 5",
+        "2, 3, 4 and 6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q27",
+      "question": "Opening receivables were $5,000 and closing receivables were $7,000. Cash received was $40,000. During the year, customers returned goods worth $800 and were allowed settlement discounts of $400. What were the credit sales for the year?",
+      "options": [
+        "$41,200",
+        "$42,000",
+        "$40,800",
+        "$43,200"
+      ],
+      "correctIndex": 3,
+      "explanation": "Credit sales = Closing AR − Opening AR + Cash received + Returns + Discounts\n= 7,000 − 5,000 + 40,000 + 800 + 400 = $43,200."
+    },
+    {
+      "id": "q28",
+      "question": "To be sufficient under most national laws, what must a limited liability company's accounting records be able to do at any given time?",
+      "options": [
+        "Disclose the company's financial position with reasonable accuracy.",
+        "Record the personal expenses of the shareholders.",
+        "List the names of all retail customers.",
+        "Predict the company's share price for the next six months."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "question": "Share premium account:",
+      "options": [
+        "is the amount of share capital that has been issued to shareholders.",
+        "is the maximum amount of share capital a company is empowered to issue.",
+        "represents the difference between the par value of the shares issued and the subscription or issue price.",
+        "shows the amount of called-up capital that has been paid."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q30",
+      "question": "When using the indirect method to prepare Statement of Cash Flows, how is an increase in inventory during the year treated?",
+      "options": [
+        "Ignored as it is a non-current asset.",
+        "Deducted from profit before tax.",
+        "Added to profit before tax.",
+        "Classified as a financing inflow."
+      ],
+      "correctIndex": 1,
+      "explanation": "Tăng inventory = dùng tiền ra → trừ khi tính dòng tiền từ hoạt động kinh doanh."
+    },
+    {
+      "id": "q31",
+      "question": "Why is limited liability specifically attractive to outside investors who do not participate in management?",
+      "options": [
+        "It guarantees them a fixed dividend every year.",
+        "It allows them to manage the day-to-day cash book of the company.",
+        "It caps their financial risk to the value of their investment.",
+        "It exempts them from paying any tax on their returns."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q32",
+      "question": "If goods taken for personal use by the owner are correctly credited to Purchases, what is the effect on the Cost of Goods Sold?",
+      "options": [
+        "It increases the Cost of Goods Sold.",
+        "It decreases the Cost of Goods Sold.",
+        "It has no effect.",
+        "It increases Sales."
+      ],
+      "correctIndex": 1,
+      "explanation": "Credit to Purchases = giảm Purchases → giảm COGS."
+    },
+    {
+      "id": "q33",
+      "question": "Which of the following would be classified as a financing activity?",
+      "options": [
+        "Cash receipts from the sale of inventory.",
+        "Cash payments to acquire property, plant, and equipment.",
+        "Cash proceeds from issuing debentures or loans.",
+        "Cash payments for income taxes."
+      ],
+      "correctIndex": 2,
+      "explanation": "Phát hành trái phiếu / vay nợ là hoạt động tài chính (financing activity)."
+    },
+    {
+      "id": "q34",
+      "question": "A company has $50,000 in share capital made up of 50c shares. It makes a \"1 for 5\" bonus issue. What is the dollar value of the increase in share capital?",
+      "options": [
+        "$5,000",
+        "$2,000",
+        "$10,000",
+        "$25,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Số cổ phiếu hiện có = 50,000 / 0.50 = 100,000.\nBonus 1:5 = 20,000 cổ phiếu mới.\nTăng share capital = 20,000 × $0.50 = $10,000."
+    },
+    {
+      "id": "q35",
+      "question": "A business paid $15,000 for rent during the year. At the start of the year, there was an accrued rent liability of $1,200. At the end of the year, there was a prepayment for rent of $1,500. What is the rent charge to the Statement of Profit or Loss?",
+      "options": [
+        "$17,700",
+        "$14,700",
+        "$12,300",
+        "$15,300"
+      ],
+      "correctIndex": 3,
+      "explanation": "Rent expense = Cash paid − Opening accrual + Closing prepayment\n= 15,000 − 1,200 + 1,500 = $15,300.\nĐầu năm có accrual $1,200 nghĩa là kỳ trước đã ghi nhận chi phí này rồi, kỳ này không tính lại. Cuối năm có prepayment $1,500 nghĩa là tiền đã trả nhưng chưa phát sinh chi phí, nên cộng vào chi phí kỳ này."
+    },
+    {
+      "id": "q36",
+      "question": "If Opening Net Assets are $50,000 and the business made a Loss of $10,000 with Drawings of $5,000, what are the Closing Net Assets at the end of the period?",
+      "options": [
+        "$45,000",
+        "$35,000",
+        "$65,000",
+        "$55,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Closing NA = Opening NA − Loss − Drawings = 50,000 − 10,000 − 5,000 = $35,000."
+    },
+    {
+      "id": "q37",
+      "question": "The following information is available for a sole trader who keeps no accounting records:\n- Net business assets at 1 July 20X4 is $186,000\n- Net business assets at 30 June 20X5 is $274,000\n- During the year ended 30 June 20X5:\n  Cash drawings by owner is $68,000\n  Additional capital introduced by owner is $50,000\n  Business cash of $20,000 is used to buy a car for the proprietor's wife, who takes no part in the business.\nUsing this information, what is the trader's profit for the year ended 30 June 20X5?",
+      "options": [
+        "$86,000",
+        "$50,000",
+        "$90,000",
+        "$126,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Profit = Closing NA − Opening NA + Drawings − Capital introduced\n= 274,000 − 186,000 + 68,000 + 20,000 − 50,000 = $126,000.\nMua xe cho vợ = drawings vì không liên quan đến kinh doanh."
+    },
+    {
+      "id": "q38",
+      "question": "A trader starts with $15,000 net assets. At year-end, he has $25,000 net assets. He took $500 cash per month and goods with a total cost of $2,000. He also used the business credit card to pay his home electricity bill of $1,200. What is the profit of the business?",
+      "options": [
+        "$18,000",
+        "$19,200",
+        "$10,000",
+        "$13,200"
+      ],
+      "correctIndex": 1,
+      "explanation": "Drawings = (500 × 12) + 2,000 + 1,200 = $9,200.\nProfit = Closing NA − Opening NA + Drawings = 25,000 − 15,000 + 9,200 = $19,200."
+    },
+    {
+      "id": "q39",
+      "question": "You are given with the following information for the year ended 31 December 20X0 of a business:\n- Cash sales: $1,243,300\n- Closing inventory: $707,820\n- Purchases: $1,840,900\n- Opening inventory: $826,400\n- The gross profit as a percentage of sales is 40%.\nBased on the data, what is the credit sales for the year?",
+      "options": [
+        "$2,870,533",
+        "$1,627,233",
+        "$2,022,500",
+        "$3,265,800"
+      ],
+      "correctIndex": 2,
+      "explanation": "- COGS = 826,400 + 1,840,900 − 707,820 = $1,959,480.\n- GP% = 40% → COGS% = 60% → Total sales = 1,959,480 / 60% = $3,265,800.\n- Credit sales = 3,265,800 − 1,243,300 = $2,022,500."
+    },
+    {
+      "id": "q40",
+      "question": "What is the legal relationship between a loan stock holder and the company?",
+      "options": [
+        "The holder has no legal relationship with the company.",
+        "The holder is a member/owner of the company.",
+        "The holder is a director of the company.",
+        "The holder is a creditor of the company."
+      ],
+      "correctIndex": 3,
+      "explanation": "Loan stock holder = chủ nợ, không phải cổ đông."
+    }
+  ]
+}
