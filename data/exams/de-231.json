@@ -1,0 +1,452 @@
+{
+  "id": "de-231",
+  "title": "Đề 231 — Financial Accounting",
+  "description": "Bộ câu hỏi ôn tập kế toán tài chính (Code 231).",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "You are given with the following information for the year ended 31 December 20X0 of a business:\n- Closing inventory: $589,800\n- Purchases: $1,582,400\n- Opening inventory: $676,600\n- The gross profit as a percentage of sales is 40%.\nWhat is the sales revenue for the year?",
+      "options": [
+        "$2,492,667",
+        "$1,192,286",
+        "$1,986,000",
+        "$2,782,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "COGS = 676,600 + 1,582,400 - 589,800 = $1,669,200. GP = 40% => COGS = 60% doanh thu. Doanh thu = 1,669,200 / 0.60 = $2,782,000."
+    },
+    {
+      "id": "q2",
+      "question": "Opening Net Assets were $50,000 and Closing Net Assets were $65,000. During the year, the owner took goods for personal use. These goods cost $1,000 but had a selling price of $1,500. The business is sales tax registered at 20%. The bookkeeper correctly recorded the sales tax on these drawings but failed to record the drawings themselves. What is the corrected profit for the year?",
+      "options": [
+        "$16,000",
+        "$16,500",
+        "$16,200",
+        "$15,000"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following is a disadvantage of limited liability company form?",
+      "options": [
+        "The share of limited liability company is unable to transfer.",
+        "Limited liability company is difficult in raising finance for the operations.",
+        "There is heavy burden in complying with legal and accounting requirements.",
+        "The owner of the company is legally separated from the company itself."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q4",
+      "question": "In a sole proprietorship, which of the following best describes the nature of \"Drawings\" in the financial statements?",
+      "options": [
+        "A non-current asset representing a loan to the owner.",
+        "A current liability until the end of the financial year.",
+        "A reduction of equity, not an expense of the business.",
+        "A distribution of profit similar to a company's tax expense."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q5",
+      "question": "Alpha had receivables of $718,200 on 31 March 20X1. Allowance for receivables on 1 April 20X0 was $22,152. He wished to change it to 3% of receivables on 31 March 20X1. On 27 March 20X1 she received $962 in full settlement of a debt written off in year ended 31 March 20X0. What total amount should be recognised for receivables in the statement of profit or loss?",
+      "options": [
+        "$1,568 credit",
+        "$606 credit",
+        "$21,546 debit",
+        "$356 debit"
+      ],
+      "correctIndex": 0,
+      "explanation": "Dự phòng mới = 718,200 × 3% = $21,546. Dự phòng cũ = $22,152. Giảm dự phòng (thu nhập) = 22,152 - 21,546 = $606 credit. Thu hồi nợ xấu đã xóa (thu nhập) = $962 credit. Tổng tác động lên P&L = 606 + 962 = $1,568 credit."
+    },
+    {
+      "id": "q6",
+      "question": "In preparing a company's statement of cash flows (IAS 7), which of the following items could form part of cash flow from financing activities?\n1. Proceeds of sale of premises\n2. Dividends received\n3. Bonus issue of shares\n4. The payment of long-term borrowings",
+      "options": [
+        "1 only",
+        "2 only",
+        "4 only",
+        "3 only"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bán mặt bằng = hoạt động đầu tư. Cổ tức nhận được = hoạt động kinh doanh (theo IAS 7). Phát hành cổ phiếu thưởng = không phát sinh dòng tiền thực sự. Trả nợ vay dài hạn = hoạt động tài chính."
+    },
+    {
+      "id": "q7",
+      "question": "Why is a loan stock holder in a less risky position than an ordinary shareholder?",
+      "options": [
+        "They can vote to fire the directors.",
+        "They have a higher priority in liquidation and guaranteed interest.",
+        "Their income grows when the company makes more profit.",
+        "They own the company's equity."
+      ],
+      "correctIndex": 1,
+      "explanation": "Chủ nợ (loan stock holder) được ưu tiên thanh toán trước cổ đông khi giải thể và nhận lãi suất cố định => ít rủi ro hơn cổ đông thường."
+    },
+    {
+      "id": "q8",
+      "question": "Inventory held at the year-end with a cost of $10,000 is sold in the following month for $8,000. What is the correct accounting treatment under IAS 10 Events after the reporting period?",
+      "options": [
+        "Adjust the year-end inventory value to $8,000 (the net realisable value).",
+        "Keep the inventory at $10,000 and record a $2,000 loss in the next year.",
+        "Disclose the $2,000 loss in the notes only.",
+        "Increase the value to $10,000 plus the cost of sale."
+      ],
+      "correctIndex": 0,
+      "explanation": "Theo IAS 2, hàng tồn kho được ghi nhận theo giá trị thấp hơn giữa giá gốc và NRV. Việc bán dưới giá sau ngày kết thúc kỳ là sự kiện điều chỉnh (adjusting event) theo IAS 10. NRV = $8,000 < giá gốc $10,000 => ghi giảm xuống $8,000."
+    },
+    {
+      "id": "q9",
+      "question": "Opening Net Assets were $30,000. During the year, the owner introduced $5,000 of her own cash and the business took out a bank loan of $10,000 to buy a new machine. Drawings were $4,000. Closing Net Assets were $45,000. What is the profit for the year?",
+      "options": [
+        "$19,000",
+        "$4,000",
+        "$14,000",
+        "$24,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Profit = Closing NA - Opening NA + Drawings - Capital introduced = 45,000 - 30,000 + 4,000 - 5,000 = $14,000. Khoản vay ngân hàng không ảnh hưởng net assets: tăng tài sản $10,000 đồng thời tăng nợ phải trả $10,000 => triệt tiêu nhau."
+    },
+    {
+      "id": "q10",
+      "question": "What is another term used interchangeably with \"par value\" of a share in accounting?",
+      "options": [
+        "Discounted Value",
+        "Market Value",
+        "Residual Value",
+        "Nominal Value"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q11",
+      "question": "To be sufficient under most national laws, what must a limited liability company's accounting records be able to do at any given time?",
+      "options": [
+        "Disclose the company's financial position with reasonable accuracy.",
+        "Record the personal expenses of the shareholders.",
+        "Predict the company's share price for the next six months.",
+        "List the names of all retail customers."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "question": "Information for year ended 31 Dec 20X1:\n- Depreciation charge: $15,000\n- Profit on disposal of NCA: $40,000\n- Plant & machinery cost: 20X0 $250,000 | 20X1 $185,000\n- Accumulated depreciation: 20X0 $50,000 | 20X1 $45,000\n- Additions during the year: $35,000\nWhat is the cash flow from the sale of non-current assets?",
+      "options": [
+        "$120,000",
+        "$40,000",
+        "$100,000",
+        "$135,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giá gốc tài sản thanh lý = 250,000 + 35,000 - 185,000 = $100,000. Khấu hao lũy kế tài sản thanh lý = 50,000 + 15,000 - 45,000 = $20,000. Giá trị còn lại = 100,000 - 20,000 = $80,000. Tiền thu từ thanh lý = 80,000 + 40,000 (lãi) = $120,000."
+    },
+    {
+      "id": "q13",
+      "question": "Sales for the year were $33,400. Opening receivables were $400 and closing receivables were $900. What was the cash received from customers?",
+      "options": [
+        "$33,400",
+        "$34,700",
+        "$33,900",
+        "$32,900"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tiền thu từ khách hàng = Opening AR + Doanh thu - Closing AR = 400 + 33,400 - 900 = $32,900."
+    },
+    {
+      "id": "q14",
+      "question": "Where do dividends paid on redeemable preference shares appear in the financial statements?",
+      "options": [
+        "As an increase of Net profit for the year.",
+        "As an appropriation of profit in the Statement of Changes in Equity.",
+        "As a finance cost in the Statement of Profit or Loss.",
+        "As an increase in Share Premium."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cổ phiếu ưu đãi có thể mua lại được phân loại là nợ phải trả (IAS 32) => cổ tức là chi phí tài chính trên báo cáo P&L."
+    },
+    {
+      "id": "q15",
+      "question": "If goods taken for personal use by the owner are correctly credited to Purchases, what is the effect on the Cost of Goods Sold?",
+      "options": [
+        "It increases Sales.",
+        "It has no effect.",
+        "It decreases the Cost of Goods Sold.",
+        "It increases the Cost of Goods Sold."
+      ],
+      "correctIndex": 2,
+      "explanation": "Ghi có vào Purchases => giảm Purchases => COGS = Opening + Purchases - Closing => COGS giảm."
+    },
+    {
+      "id": "q16",
+      "question": "Which one of the following items does not appear under the heading 'equity and reserves' on a company statement of financial position?",
+      "options": [
+        "Revaluation surplus",
+        "Loan stock",
+        "Share premium",
+        "Retained earnings"
+      ],
+      "correctIndex": 1,
+      "explanation": "Loan stock là khoản nợ phải trả (liability), không phải vốn chủ sở hữu."
+    },
+    {
+      "id": "q17",
+      "question": "A business had opening trade receivables of $12,500 and closing trade receivables of $15,300. Cash received from customers was $85,000 and $1,200 was written off as irrecoverable debt. What were the credit sales for the year?",
+      "options": [
+        "$87,800",
+        "$84,200",
+        "$86,600",
+        "$89,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Doanh thu tín dụng = Closing AR - Opening AR + Tiền thu + Nợ xấu xóa sổ = 15,300 - 12,500 + 85,000 + 1,200 = $89,000."
+    },
+    {
+      "id": "q18",
+      "question": "For the current year: Motor expenses accrued $520 | Rent prepaid $450. NCA cost: Fixtures & fittings $42,200 | Motor vehicles $45,730. Opening acc dep: F&F $2,200 | MV $15,292. Dep policy: F&F 10% reducing balance | MV 20% on cost. What is the net effect on profit?",
+      "options": [
+        "Reduction of $13,216",
+        "Reduction of $14,116",
+        "Reduction of $13,436",
+        "Reduction of $14,252"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khấu hao F&F = (42,200 - 2,200) × 10% = $4,000. Khấu hao MV = 45,730 × 20% = $9,146. Chi phí dồn tích xe = $520. Trả trước tiền thuê = $450 (tăng lợi nhuận). Net giảm = 4,000 + 9,146 + 520 - 450 = $13,216."
+    },
+    {
+      "id": "q19",
+      "question": "Beth's cost of sales is $540,800. She received $10,120 for goods sold on a special deal to Bean (included in sales), calculated with 10% mark-up on cost. Gross profit on all other goods was 20% of sales. What is the total figure of sales for the year?",
+      "options": [
+        "$453,120",
+        "$452,200",
+        "$674,620",
+        "$673,700"
+      ],
+      "correctIndex": 2,
+      "explanation": "Giá gốc hàng bán đặc biệt (Bean) = 10,120 / 1.10 = $9,200. Giá vốn còn lại = 540,800 - 9,200 = $531,600. Doanh thu hàng khác = 531,600 / 0.80 = $664,500. Tổng doanh thu = 664,500 + 10,120 = $674,620."
+    },
+    {
+      "id": "q20",
+      "question": "What does the term \"cumulative\" mean for a preference shareholder?",
+      "options": [
+        "The shares can be converted into ordinary shares.",
+        "The dividend rate increases every year.",
+        "The shareholder gets extra votes in the annual general meeting.",
+        "Unpaid dividends from previous years must be paid before any ordinary dividend."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q21",
+      "question": "What is another common name for loan stock?",
+      "options": [
+        "Reserves",
+        "Inventory",
+        "Equities",
+        "Bonds"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q22",
+      "question": "What is a mandatory requirement for the daily accounting records of a limited company?",
+      "options": [
+        "Filing a tax return every single day.",
+        "Day-to-day entries of all money received and spent.",
+        "Daily updates to the market value of the company's shares.",
+        "A record of every telephone call made by employees."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q23",
+      "question": "A company has 50,000 8% preference shares of $0.50 each. What is the total annual preference dividend?",
+      "options": [
+        "$400",
+        "$2,000",
+        "$25,000",
+        "$4,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tổng mệnh giá = 50,000 × $0.50 = $25,000. Cổ tức hàng năm = $25,000 × 8% = $2,000."
+    },
+    {
+      "id": "q24",
+      "question": "Elo (sole trader): Hàng tồn kho 1 Jul 20X4: $138,600 | 30 Jun 20X5: $149,100. Mua hàng trong năm kết thúc 30 Jun 20X5: $716,100. Lợi nhuận gộp = 30% doanh thu. Không có tổn thất hàng tồn kho. Doanh thu cho năm kết thúc 30 June 20X5 là bao nhiêu?",
+      "options": [
+        "$917,280",
+        "$1,038,000",
+        "$2,352,000",
+        "$1,008,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "COGS = 138,600 + 716,100 - 149,100 = $705,600. GP = 30% => COGS = 70% doanh thu. Doanh thu = 705,600 / 0.70 = $1,008,000."
+    },
+    {
+      "id": "q25",
+      "question": "Which of the following is a non-cash item that must be added back to profit when preparing Statement of Cash Flows under indirect method?",
+      "options": [
+        "Purchase of a new delivery van.",
+        "Proceeds from a share issue.",
+        "Cash paid to suppliers.",
+        "Depreciation."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q26",
+      "question": "Opening receivables were $5,000 and closing receivables were $7,000. Cash received was $40,000. During the year, customers returned goods worth $800 and were allowed settlement discounts of $400. What were the credit sales for the year?",
+      "options": [
+        "$42,000",
+        "$43,200",
+        "$40,800",
+        "$41,200"
+      ],
+      "correctIndex": 1,
+      "explanation": "Doanh thu tín dụng = Closing AR - Opening AR + Tiền thu + Hàng trả lại + Chiết khấu = 7,000 - 5,000 + 40,000 + 800 + 400 = $43,200."
+    },
+    {
+      "id": "q27",
+      "question": "A business: Opening assets $300,000, liabilities $120,000. Closing assets $400,000, liabilities $150,000. Capital introduced $20,000; Profit $60,000. What were the drawings?",
+      "options": [
+        "$10,000",
+        "$70,000",
+        "$50,000",
+        "$30,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Opening NA = 300,000 - 120,000 = $180,000. Closing NA = 400,000 - 150,000 = $250,000. Drawings = Opening NA + Profit + Capital - Closing NA = 180,000 + 60,000 + 20,000 - 250,000 = $10,000."
+    },
+    {
+      "id": "q28",
+      "question": "Which one of the following statements is correct?",
+      "options": [
+        "If a business makes a profit, it has positive cash flow.",
+        "If a business makes a loss, it has negative cash flow.",
+        "A business that breaks even has cash inflows equal to cash used.",
+        "A business may make a profit but have negative cash flow."
+      ],
+      "correctIndex": 3,
+      "explanation": "Lợi nhuận (cơ sở dồn tích) và dòng tiền là hai khái niệm độc lập. Doanh nghiệp có lãi nhưng vẫn có thể âm tiền mặt do đầu tư lớn vào tài sản hoặc khách hàng chậm thanh toán."
+    },
+    {
+      "id": "q29",
+      "question": "Tommy does not keep proper accounting records. Information for year ended 31 March 20X1:\n- Payment to suppliers: $236,000\n- Refunds received from suppliers: $2,800\n- Discounts received: $17,600\n- Contra with trade receivables: $2,400\n- Trade payables 31/3/20X1: $131,000\n- Trade payables 31/3/20X0: $123,000\nWhat is the amount of purchases during the period?",
+      "options": [
+        "$262,000",
+        "$261,200",
+        "$256,400",
+        "$266,800"
+      ],
+      "correctIndex": null
+    },
+    {
+      "id": "q30",
+      "question": "A business had opening inventory of $12,000 and purchases of $60,000. Sales were $80,000 with a 25% mark-up on cost. After a fire, only $2,000 of inventory remained. What was the cost of goods destroyed?",
+      "options": [
+        "$6,000",
+        "$8,000",
+        "$4,000",
+        "$10,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mark-up 25% trên giá gốc => COGS = Doanh thu / 1.25 = 80,000 / 1.25 = $64,000. Hàng tồn kho dự kiến cuối kỳ = 12,000 + 60,000 - 64,000 = $8,000. Hàng bị hủy = 8,000 - 2,000 = $6,000."
+    },
+    {
+      "id": "q31",
+      "question": "A check from a customer for $500 was banked but later returned as \"dishonored.\" How should this be treated in the two-column cash book?",
+      "options": [
+        "No entry needed in the cash book",
+        "Credit Bank column $500",
+        "Debit Bank column $500",
+        "Credit Cash column $500"
+      ],
+      "correctIndex": 1,
+      "explanation": "Séc bị trả lại => giảm số dư ngân hàng => Credit Bank $500."
+    },
+    {
+      "id": "q32",
+      "question": "Which of the following is correct for the disclosure for non-adjusting events after reporting date?",
+      "options": [
+        "It is the way business to eliminate any unfavoured event.",
+        "It is an aid to users for any unusual changes business assets and liabilities.",
+        "It is necessary for business to avoid future obligation in relation to those events.",
+        "It is a requirement by law."
+      ],
+      "correctIndex": null
+    },
+    {
+      "id": "q33",
+      "question": "On 1 September 20X6: inventory $380,000. During month: sales $650,000; purchases $480,000. Fire on 30 September destroyed some inventory. Undamaged goods: $220,000. Gross profit margin: 30%. What is the cost of inventory destroyed?",
+      "options": [
+        "$185,000",
+        "$360,000",
+        "$405,000",
+        "$140,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "COGS = 650,000 × 70% = $455,000. Hàng tồn kho dự kiến cuối kỳ = 380,000 + 480,000 - 455,000 = $405,000. Hàng bị hủy = 405,000 - 220,000 = $185,000."
+    },
+    {
+      "id": "q34",
+      "question": "Which of the following is an advantage of limited liability company form?",
+      "options": [
+        "Comply with legal and accounting requirements.",
+        "The company's exposure to debts and liability is limited.",
+        "Complete control from the owner.",
+        "Separate legal identity between the company and its owners."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trách nhiệm hữu hạn là ưu điểm cốt lõi nhất: cổ đông chỉ chịu trách nhiệm trong phạm vi vốn đã góp."
+    },
+    {
+      "id": "q37",
+      "question": "A retail entity operates strictly on a cash-only basis for all its sales transactions. The entity applies a consistent pricing policy where all goods are sold at a fixed mark-up of 25% on cost. For the financial period ended 31 December 2024, the following information regarding cash movements and balances was extracted from the business records:\n- Receipts banked: $38,000\n- Cash expenses paid: $2,000\n- Opening cash: $1,000\n- Closing cash: $1,500\nWhat is the Gross Profit from the given information?",
+      "options": [
+        "$8,000",
+        "$7,500",
+        "$8,100",
+        "$10,125"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cash sales = Receipts banked + Closing cash - Opening cash + Cash expenses paid = 38,000 + 1,500 - 1,000 + 2,000 = $40,500. Mark-up 25% trên giá gốc => GP margin = 25/125 = 20%. GP = 40,500 × 20% = $8,100."
+    },
+    {
+      "id": "q38",
+      "question": "A company has $50,000 in share capital made up of 50c shares. It makes a \"1 for 5\" bonus issue. What is the dollar value of the increase in share capital?",
+      "options": [
+        "$5,000",
+        "$10,000",
+        "$2,000",
+        "$25,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Số cổ phiếu hiện có = $50,000 / $0.50 = 100,000 cổ phiếu. Bonus 1:5 => thêm 100,000 / 5 = 20,000 cổ phiếu mới. Tăng share capital = 20,000 × $0.50 = $10,000."
+    },
+    {
+      "id": "q39",
+      "question": "Jonny does not keep proper accounting records. He has the following information to calculate for total purchases for the year ended 31 March 20X1:\n- Trade payables 31 March 20X1: $271,000\n- Trade payables 31 March 20X0: $230,000\n- Payment to suppliers: $486,000\n- Refunds received from suppliers: $4,400\n- Discounts received: $27,200\n- Discount allowed: $14,200\nWhat is the amount of purchases during the period?",
+      "options": [
+        "$549,800",
+        "$476,600",
+        "$558,600",
+        "$467,800"
+      ],
+      "correctIndex": 0,
+      "explanation": "T-account Trade Payables — Debit: Payments $486,000 + Refunds $4,400 + Discounts received $27,200 + Closing TP $271,000 = $788,600. Credit: Opening TP $230,000 + Purchases = $788,600. Purchases = 486,000 + 271,000 - 230,000 - 4,400 + 27,200 = $549,800. Lưu ý: Discount allowed không thuộc T-account Trade Payables nên không tính vào."
+    },
+    {
+      "id": "q40",
+      "question": "How does a rights issue affect the company's ability to pay future dividends compared to a bonus issue?",
+      "options": [
+        "It leaves distributable reserves intact and available for dividends.",
+        "It uses up all Retained Earnings.",
+        "It prevents the company from paying dividends again.",
+        "It converts all dividends into interest payments."
+      ],
+      "correctIndex": 0,
+      "explanation": "Rights issue: thu tiền mặt từ cổ đông => tăng cash => không ảnh hưởng retained earnings. Bonus issue: chuyển retained earnings/share premium sang share capital => giảm distributable reserves. Do đó rights issue để lại distributable reserves nguyên vẹn hơn so với bonus issue."
+    }
+  ]
+}
