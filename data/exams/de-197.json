@@ -148,6 +148,17 @@
     },
     {
       "id": "q14",
+      "question": "An inexperienced bookkeeper has drawn up the following trade receivables account. Given that only the opening balance amount is correct, what should the closing balance be after correcting the errors made in preparing the account?",
+      "options": [
+        "$268,200",
+        "$270,340",
+        "$250,940",
+        "$254,300"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q15",
       "question": "Which of the following events after the reporting period would normally qualify as adjusting events according to IAS 10 Events after the reporting period?\n(1) The bankruptcy of a credit customer with a balance outstanding at the end of the reporting period\n(2) A decline in the market value of investments\n(3) The declaration of an ordinary dividend\n(4) The determination of the cost of assets purchased before the end of the reporting period",
       "options": [
         "1 and 2",
@@ -158,7 +169,7 @@
       "correctIndex": 1
     },
     {
-      "id": "q15",
+      "id": "q16",
       "question": "What happens to a shareholder's percentage of ownership if they do not take up their rights?",
       "options": [
         "Their holding increases automatically.",
@@ -169,7 +180,7 @@
       "correctIndex": 1
     },
     {
-      "id": "q16",
+      "id": "q17",
       "question": "Jonathan starts the year with $500 in the till. During the year, he banks $50,000. He pays $2,000 in cash for wages and $3,000 for personal drawings from the till. At the end of the year, he has $800 in the till. What are the total cash sales?",
       "options": [
         "$54,500",
@@ -180,7 +191,7 @@
       "correctIndex": 3
     },
     {
-      "id": "q17",
+      "id": "q18",
       "question": "Which of the following would be classified as a financing activity?",
       "options": [
         "Cash receipts from royalties and commissions.",
@@ -191,7 +202,7 @@
       "correctIndex": 3
     },
     {
-      "id": "q18",
+      "id": "q19",
       "question": "What is the legal relationship between a loan stock holder and the company?",
       "options": [
         "The holder is a creditor of the company.",
@@ -202,7 +213,7 @@
       "correctIndex": 0
     },
     {
-      "id": "q19",
+      "id": "q20",
       "question": "A proprietor receives $3,000 in dividends from private shares and pays it into the business bank account. In the same month, he pays $4,000 for a private medical operation using the business checkbook. What is the net impact on the Drawings account?",
       "options": [
         "$1,000 Debit",
@@ -213,7 +224,7 @@
       "correctIndex": 0
     },
     {
-      "id": "q20",
+      "id": "q21",
       "question": "Who typically defines the minimum accounting records that a limited liability company must maintain?",
       "options": [
         "National legislation statutes.",
@@ -224,7 +235,7 @@
       "correctIndex": 0
     },
     {
-      "id": "q21",
+      "id": "q22",
       "question": "If $1,000 is stolen from the cash till before it is banked, how does this affect the \"Revenue\" figure in the Statement of Profit or Loss?",
       "options": [
         "Revenue is reduced by $1,000.",
@@ -235,7 +246,7 @@
       "correctIndex": 2
     },
     {
-      "id": "q22",
+      "id": "q23",
       "question": "A business makes 25% of its purchases in cash and the remainder on credit. Opening payables were $5,000 and closing were $7,000. Payments for credit purchases were $61,000. What are the total purchases?",
       "options": [
         "$78,750",
@@ -246,7 +257,7 @@
       "correctIndex": 2
     },
     {
-      "id": "q23",
+      "id": "q24",
       "question": "How does a rights issue affect the company's ability to pay future dividends compared to a bonus issue?",
       "options": [
         "It prevents the company from paying dividends again.",
@@ -257,7 +268,7 @@
       "correctIndex": 2
     },
     {
-      "id": "q24",
+      "id": "q25",
       "question": "Opening Net Assets were $30,000. During the year, the owner introduced $5,000 of her own cash and the business took out a bank loan of $10,000 to buy a new machine. Drawings were $4,000. Closing Net Assets were $45,000. What is the profit for the year?",
       "options": [
         "$19,000",
@@ -268,7 +279,7 @@
       "correctIndex": 2
     },
     {
-      "id": "q25",
+      "id": "q26",
       "question": "Close Co has provided you with the following information in relation to their financial statement in current year:\n• 1,000,000 ordinary shares of $0.5 each.\n• 200,000 7% irredeemable preference shares of $1 each.\n• 100,000 5% redeemable preference shares of $1 each (redeem in 3 years from now).\n• 10% Loan note of $100,000 in total (interest accrued full year).\n• Tax expense for the year: $20,000\n• Profit before tax and interest for the year: $200,000\n\nThe management decided to pay an ordinary dividend which is 50% of profit after tax and preference dividend. After this decision, business retained earnings is:",
       "options": [
         "$75,500",
@@ -279,7 +290,7 @@
       "correctIndex": 0
     },
     {
-      "id": "q26",
+      "id": "q27",
       "question": "Which of the following is often secured against limited liability company assets like land or buildings?",
       "options": [
         "Irredeemable preference shares",
@@ -290,7 +301,7 @@
       "correctIndex": 3
     },
     {
-      "id": "q27",
+      "id": "q28",
       "question": "Inventory held at the year-end with a cost of $10,000 is sold in the following period for $8,000. What is the correct accounting treatment under IAS 10 Events after the reporting period?",
       "options": [
         "Adjust the year-end inventory value to $8,000 (the net realisable value).",
@@ -301,7 +312,7 @@
       "correctIndex": 0
     },
     {
-      "id": "q28",
+      "id": "q29",
       "question": "The following information is extracted from a business for the current year:\n• $520 is accrued for motor expenses\n• $450 has been prepaid for rent\n• Non-current assets cost:\n  - Fixtures and fittings: $42,200\n  - Motor vehicles: $45,730\n• Opening accumulated depreciation:\n  - Fixtures and fittings: $2,200\n  - Motor vehicles: $15,292\n• Depreciation policy:\n  - Fixtures and fittings: 10% reducing balance method.\n  - Motor vehicles: 20% on cost.\n\nWhat is the net effect on profit of the above information?",
       "options": [
         "Reduction of $14,252.",
@@ -312,7 +323,7 @@
       "correctIndex": 1
     },
     {
-      "id": "q29",
+      "id": "q30",
       "question": "Opening Net Assets were $50,000 and Closing Net Assets were $65,000. During the year, the owner took goods for personal use. These goods cost $1,000 but had a selling price of $1,500. The business is sales tax registered at 20%. The bookkeeper correctly recorded the sales tax on these drawings but failed to record the drawings themselves. What is the corrected profit for the year?",
       "options": [
         "$16,500",
@@ -323,7 +334,7 @@
       "correctIndex": 1
     },
     {
-      "id": "q30",
+      "id": "q31",
       "question": "Tommy does not keep proper accounting records. The following information for the year ended 31 March 20X1 is available:\n• Payment to suppliers: $236,000\n• Refunds received from suppliers: $2,800\n• Discounts received: $17,600\n• Contra amount with trade receivable: $2,400\n• Trade payables 31 March 20X1: $131,000\n• Trade payables 31 March 20X0: $123,000\n\nWhat is the amount of purchases during the period?",
       "options": [
         "$261,200",
@@ -334,7 +345,7 @@
       "correctIndex": 0
     },
     {
-      "id": "q31",
+      "id": "q32",
       "question": "Brian does not keep full accounting records. His assets and liabilities for the year ended on 31 December 20X0 were:\n• Non-current assets: $61,560\n• Inventory: $7,770\n• Receivables: $5,565\n• Payables: $7,988\n• Bank overdraft: $4,200\n\nAlso, there were no entries made in relation to rent for December 20X0 because the rent was paid on 1 January 20X1. Rent is $600 per month. What is Brian's closing capital?",
       "options": [
         "$62,107",
@@ -345,7 +356,7 @@
       "correctIndex": 0
     },
     {
-      "id": "q32",
+      "id": "q33",
       "question": "A business receives 20% of its sales in cash and 80% on credit. Opening receivables were $6,000 and closing were $9,000. Cash received from credit customers was $45,000. What are the total sales with the given information?",
       "options": [
         "$54,000",
@@ -356,7 +367,7 @@
       "correctIndex": 1
     },
     {
-      "id": "q33",
+      "id": "q34",
       "question": "Where are cash flows arising from taxes on income normally classified in accordance to IAS 7 - Statement of Cash Flows?",
       "options": [
         "They are split equally between operating and financing activities.",
@@ -367,7 +378,7 @@
       "correctIndex": 1
     },
     {
-      "id": "q34",
+      "id": "q35",
       "question": "The following details relate to a sole trader who does not keep full accounting records:\n• Trade receivables, 1 Jan 20X0: $221,000\n• Cash received from customers: $926,800\n• Cash paid to suppliers: $520,000\n• Discounts allowed: $8,400\n• Irrecoverable debts: $19,600\n• Amount due from a customer who is also a supplier offset against an amount due for goods supplied by him: $9,000\n• Trade receivables, 31 December 20X0: $281,000\n\nBased on the above information, what is the sales revenue for the year?",
       "options": [
         "$1,023,800",
@@ -378,7 +389,7 @@
       "correctIndex": 0
     },
     {
-      "id": "q35",
+      "id": "q36",
       "question": "What is the primary objective of maintaining detailed accounting records in a limited company?",
       "options": [
         "To prevent any other company from competing in the same market.",
@@ -389,7 +400,7 @@
       "correctIndex": 2
     },
     {
-      "id": "q36",
+      "id": "q37",
       "question": "The following information is presented to you in relation of a business that does not keep full accounting records:\n• Opening Inventory: $120,000\n• Closing Inventory: $98,000\n• Opening Trade payables: $106,000\n• Closing Trade payables: $155,000\n• Sales: $221,200\n• The gross margin on sales is 40%\n\nWhat is the payment to the supplier during the period?",
       "options": [
         "$87,000",
@@ -400,7 +411,7 @@
       "correctIndex": 3
     },
     {
-      "id": "q37",
+      "id": "q38",
       "question": "The following material events take place after the reporting date of 31 December 20X1 and before the financial statements for T Co are approved:\n• T Co management declared a major investment for the year expected to earn $45,000 in profit.\n• B Co, a major customer of T Co, went into liquidation. T Co has been advised that it is highly unlikely to receive any of the outstanding debt of $150,000 owed by B Co at the year end.\n• A fire occurred in the warehouse of T Co and stock costing $75,000 was destroyed.\n\nWhat is the effect on profit for the year in the financial statements on 31 December 20X1 of making the required adjustments?",
       "options": [
         "Reduction of $150,000.",
@@ -411,7 +422,7 @@
       "correctIndex": 0
     },
     {
-      "id": "q38",
+      "id": "q39",
       "question": "If Opening Net Assets were $50,000 and the business made a Loss of $10,000 with Drawings of $5,000, what are the Closing Net Assets at the end of the period?",
       "options": [
         "$65,000",
@@ -422,7 +433,7 @@
       "correctIndex": 1
     },
     {
-      "id": "q39",
+      "id": "q40",
       "question": "Where do dividends paid on redeemable preference shares appear in the financial statements?",
       "options": [
         "As an increase of Net profit for the year.",
