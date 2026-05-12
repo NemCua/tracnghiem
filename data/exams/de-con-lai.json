@@ -1,0 +1,271 @@
+{
+  "id": "de-con-lai",
+  "title": "Đề còn lại",
+  "description": "Bộ câu hỏi ôn tập kế toán tài chính (Câu 17-40).",
+  "questions": [
+    {
+      "id": "q17",
+      "question": "What is the primary difference between a rights issue and a bonus issue?",
+      "options": [
+        "A bonus issue is always at a premium.",
+        "A rights issue decreases share capital.",
+        "A bonus issue is only for new investors.",
+        "A rights issue raises cash; a bonus issue does not."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q18",
+      "question": "Which of the following is an example of an investing activity?",
+      "options": [
+        "Cash proceeds from issuing shares.",
+        "Cash receipts from the sale of property, plant, and equipment.",
+        "Cash payments to employees for wages.",
+        "Repayment of a long-term bank loan."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q19",
+      "question": "If Opening Net Assets are $50,000 and the business made a Loss of $10,000 with Drawings $5,000, what are the Closing Net Assets at the end of the period?",
+      "options": [
+        "$35,000",
+        "$65,000",
+        "$45,000",
+        "$55,000"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "question": "Amy is a sole trader and had assets of $569,400 and liabilities of $412,840 on 1 January 20X8. During the year ended 31 December 20X8 she paid $65,000 capital into the business and she paid herself wages of $800 per month. On 31 December 20X8, Amy had assets of $614,130 and liabilities of $369,770. What is Amy's profit for the year ended 31 December 20X8?",
+      "options": [
+        "$32,400",
+        "$87,800",
+        "$22,800",
+        "$23,600"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "question": "What is the effect of a bonus issue on the total assets and total cash balance of a company?",
+      "options": [
+        "Total assets increase and cash increases.",
+        "Total assets increase but cash remains the same.",
+        "There is no effect on total assets or cash.",
+        "Total assets decrease and cash remains the same."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q22",
+      "question": "An inexperienced bookkeeper has drawn up the following trade payable account:\nDebit entries (Wrongly or rightly recorded):\n• Balance b/f: $78,000\n• Purchase returns: $3,500\n• Credit purchase: $54,000\n• Discount allowed: $9,400\nCredit entries (Wrongly or rightly recorded):\n• Payment to supplier: $102,500\n• Irrecoverable debts written off: $2,200\n• Contras against receivable: $3,400\n• Cash refund from supplier: $1,500\n• Balance c/f: $35,300\nQuestion: Given that the opening balance is a normal balance, what should the closing balance be after correcting the errors made in preparing the account?",
+      "options": [
+        "$16,900",
+        "$14,700",
+        "$12,500",
+        "$24,100"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q23",
+      "question": "You are given with the following information for the year ended 31 December 20X0 of a business:\n• Closing inventory: $589,800\n• Purchases: $1,582,400\n• Opening inventory: $676,600\n• The gross profit as a percentage of sales is 40%.\nBased on the data, what is the sales revenue for the year?",
+      "options": [
+        "$2,492,667",
+        "$1,192,286",
+        "$2,782,000",
+        "$1,986,000"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q24",
+      "question": "In the context of the business equation, what does \"net assets\" represent?",
+      "options": [
+        "Fixed assets minus accumulated depreciation.",
+        "Total cash in the bank.",
+        "Total assets minus total liabilities.",
+        "Total assets only."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q25",
+      "question": "The following information is extracted from a business for the current year:\n• $520 is accrued for motor expenses\n• $450 has been prepaid for rent\n• Non-current assets cost:\n• Fixtures and fittings: $42,200\n• Motor vehicles: $45,730\n• Opening accumulated depreciation:\n• Fixtures and fittings: $2,200\n• Motor vehicles: $15,292\n• Depreciation policy:\n• Fixtures and fittings 10% reducing balance method.\n• Motor vehicles 20% on cost.\nWhat is the net effect on profit of the above information?",
+      "options": [
+        "Reduction of $14,252.",
+        "Reduction of $13,216.",
+        "Reduction of $14,116.",
+        "Reduction of $13,436."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q26",
+      "question": "What is another common name for loan stock?",
+      "options": [
+        "Reserves",
+        "Bonds",
+        "Equities",
+        "Inventory"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q27",
+      "question": "Sales for the year were $33,400. Opening receivables were $400 and closing receivables were $900. What was the cash received from customers?",
+      "options": [
+        "$33,400",
+        "$34,700",
+        "$32,900",
+        "$33,900"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q28",
+      "question": "Sales were calculated as $80,000 using cash received $75,000, opening receivables $10,000 and closing $15,000. It was then discovered that a credit note of $2,000 issued to a customer was ignored. What is the corrected gross sales figure?",
+      "options": [
+        "$78,000",
+        "$73,000",
+        "$80,000",
+        "$82,000"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "question": "Close Co has provided you with the following information in relation to their financial year for the current year:\n• 1,000,000 ordinary shares of $0.5 each.\n• 200,000 7% irredeemable preference shares of $1 each.\n• 100,000 5% redeemable preference shares of $1 each (redeem in 3 years from now).\n• 10% Loan note of $100,000 in total (interest accrued full year).\n• Tax expense for the year: $20,000\n• Profit before tax and interest for the year: $200,000\nThe management decided to pay an ordinary dividend which is 50% of profit after tax and preference dividend. After this decision, business retained earnings is:",
+      "options": [
+        "$77,500",
+        "$180,000",
+        "$80,500",
+        "$75,500"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q30",
+      "question": "A check from a customer for $500 was banked but later returned as \"dishonored.\" How should this be treated in the two-column cash book?",
+      "options": [
+        "Credit Cash column $500",
+        "Debit Bank column $500",
+        "Credit Bank column $500",
+        "No entry needed in the cash book"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q31",
+      "question": "On 1 January 20X0 a limited liability company's capital structure was as follows:\n• 50c Ordinary share: $1,000,000\n• Share premium account: $800,000\nA bonus issue on 1 January 20X0 of one share for every four in issue, using the share premium account for the event.\nA rights issue on 1 April 20X0 of one share for every ten in issue, at $1.50 per share.\nWhat is the balance of company's ordinary share capital for the year ended 31 December 20X0?",
+      "options": [
+        "$2,175,000",
+        "$1,375,000",
+        "$2,025,000",
+        "$1,775,000"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q32",
+      "question": "A company issues 100,000 shares with a par value of $0.50 at a market price of $1.20 each. How much should be recorded in the Share Capital account?",
+      "options": [
+        "$120,000",
+        "$100,000",
+        "$70,000",
+        "$50,000"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q33",
+      "question": "A company with 100,000 existing $1 shares issues an additional 20,000 shares at a market price of $3.50 each. What is the total credit to the Share Premium account for this specific transaction?",
+      "options": [
+        "$50,000",
+        "$20,000",
+        "$70,000",
+        "$350,000"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "question": "On 31 December 20X0, a fire destroyed a part of the inventory of a sole trader who fixes his prices by adding 20 per cent to the cost of all goods purchased. You are given with the following information for the year ended 31 December 20X0:\n• Sales: $282,360\n• Opening inventory: $171,600\n• Closing inventory: $144,120\n• Purchases: $248,200\nUsing provided information, what inventory loss has occurred?",
+      "options": [
+        "$31,704",
+        "$40,380",
+        "$5,168",
+        "$14,580"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q35",
+      "question": "The following details relate to a sole trader who does not keep full accounting records:\n• Trade receivables, 1 Jan 20X0: $221,000\n• Cash received from customers: $926,800\n• Cash paid to suppliers: $520,000\n• Discounts allowed: $8,400\n• Irrecoverable debts: $19,600\n• Amount due from a customer who is also a supplier offset against an amount due for goods supplied: $9,000\n• Trade receivables, 31 December 20X0: $281,000\nBased on the above information, what is the sales revenue for the year?",
+      "options": [
+        "$484,200",
+        "$987,400",
+        "$986,200",
+        "$1,023,800"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q36",
+      "question": "An inexperienced bookkeeper has drawn up the following trade receivables account:\n• Debit side:\n• Balance b/f: $286,000\n• Cash from credit customer: $474,240\n• Irrecoverable debts written off: $10,420\n• Discount received: $19,400\n• Credit side:\n• Credit sales: $502,300\n• Sales returns: $24,300\n• Contras against payables: $9,000\n• Balance c/f: $254,460\nGiven that only the opening balance amount is correct, what should the closing balance be after correcting errors made in preparing the account?",
+      "options": [
+        "$270,340",
+        "$250,940",
+        "$268,200",
+        "$254,300"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "question": "Which of the following is the acceptable formula to calculate the payment received from credit customer for the period in case of business does not keep proper accounting records, assuming that all balances are normal balances?",
+      "options": [
+        "Closing AR + Discount allowed - Discount received - Credit sales - Opening AR",
+        "Credit sales - Closing AR - Discount allowed + Opening AR",
+        "Discount allowed + Opening AR - Closing AR - Credit sales",
+        "Opening AR + Credit sales - Discount received - Discount allowed - Closing AR"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q38",
+      "question": "To be sufficient under most national laws, what must a limited liability company's accounting records be able to do at any given time?",
+      "options": [
+        "Disclose the company's financial position with reasonable accuracy.",
+        "Predict the company's share price for the next six months.",
+        "Record the personal expenses of the shareholders.",
+        "List the names of all retail customers."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "question": "A business had opening inventory of $12,000 and purchases of $60,000. Sales were $80,000 with a 25% mark-up on cost. After a fire, only $2,000 of inventory remained. What was the cost of the goods destroyed?",
+      "options": [
+        "$6,000",
+        "$4,000",
+        "$8,000",
+        "$10,000"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "question": "What is the legal relationship between a loan stock holder and the company?",
+      "options": [
+        "The holder has no legal relationship with the company.",
+        "The holder is a creditor of the company.",
+        "The holder is a member/owner of the company.",
+        "The holder is a director of the company."
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
