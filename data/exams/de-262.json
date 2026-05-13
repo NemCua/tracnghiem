@@ -1,0 +1,211 @@
+{
+  "id": "de-262",
+  "title": "Đề 262 — Kế Toán Tài Chính Quốc Tế 2",
+  "description": "Bộ câu hỏi ôn tập kế toán tài chính quốc tế (Mã đề 262).",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which items are included when calculating capital employed for return on capital employed (ROCE)?",
+      "options": [
+        "Trade payables and bank overdrafts only.",
+        "Ordinary shares, share premium, retained earnings, and long-term loan notes.",
+        "Total assets plus depreciation.",
+        "Only the cash held in the bank."
+      ],
+      "correctIndex": 1,
+      "explanation": "Capital employed = Equity + Long-term debt = Ordinary shares + Share premium + Retained earnings + Long-term loan notes."
+    },
+    {
+      "id": "q2",
+      "question": "What are pre-acquisition profits?",
+      "options": [
+        "Profits earned by the parent company before the subsidiary was created.",
+        "Profits earned by the group in the first year after the merger.",
+        "Retained earnings earned by the subsidiary before the parent company took ownership.",
+        "Dividends paid by the subsidiary to the parent company."
+      ],
+      "correctIndex": 2,
+      "explanation": "Pre-acquisition profits là retained earnings của công ty con trước khi công ty mẹ nắm quyền kiểm soát."
+    },
+    {
+      "id": "q3",
+      "question": "A company currently has a current ratio of 2.1 and a quick ratio of 0.9. The board of directors has decided to use the company's existing cash balance to pay a previously declared final dividend. What will be the effect of this payment on the two ratios?",
+      "options": [
+        "The current ratio will increase, while the quick ratio will decrease.",
+        "Both the current ratio and the quick ratio will increase.",
+        "Both the current ratio and the quick ratio will decrease.",
+        "The current ratio will decrease, while the quick ratio will increase."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dividend payable đã được ghi nhận trước đó là current liability. Khi dùng cash để trả, cả cash (quick asset) và dividend payable (current liability) đều giảm cùng một lượng. Current ratio đang > 1 nên khi cả tử và mẫu giảm cùng lượng, tỷ số TĂNG. Quick ratio đang < 1 nên tỷ số GIẢM."
+    },
+    {
+      "id": "q4",
+      "question": "On 1/1/20X9, Kappa acquired 100% ordinary shares of Lamda at a total cost of $1,000,000. At this date, Lamda's financial position is measured at fair value and at following:\n- Ordinary share capital: $800,000\n- Retained earnings: $250,000\nWhich of the following is correct?",
+      "options": [
+        "NCI is $50,000",
+        "Loss on business combination is $50,000",
+        "Gain from a bargain purchase is $50,000",
+        "Goodwill is $50,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Net assets = 800,000 + 250,000 = $1,050,000. Consideration = $1,000,000. Vì consideration < net assets → Gain from bargain purchase = 1,050,000 - 1,000,000 = $50,000. Không có NCI vì mua 100%."
+    },
+    {
+      "id": "q5",
+      "question": "What is significant influence?",
+      "options": [
+        "The power to participate in financial and operating policy decisions, but not control them.",
+        "The ability to dictate the dividend policy of the investee.",
+        "The right to appoint 100% of the board of directors.",
+        "The ownership of more than 50% of the voting power."
+      ],
+      "correctIndex": 0,
+      "explanation": "Significant influence là quyền tham gia vào các quyết định chính sách tài chính và hoạt động nhưng không kiểm soát (thường từ 20-50% cổ phần biểu quyết)."
+    },
+    {
+      "id": "q6",
+      "question": "Harbor Co acquired a 60% equity interest in Sterling Ltd on 1 July 20X4 (exactly mid-year). Both companies have a financial year ending 31 December 20X4. The following information is available as of 31 December 20X4:\n- Harbor Co: Individual retained earnings are $500,000.\n- Sterling Ltd: Retained earnings were $100,000 on 1 January 20X4 and grew to $160,000 by 31 December 20X4. Profits are assumed to have accrued evenly.\n- During 20X4, Sterling Ltd (the subsidiary) sold goods to Harbor Co. At the year-end, the inventory of Harbor Co still included an unrealised profit of $10,000 from these sales.\nCalculate the consolidated retained earnings to be presented in the Harbor Group's Statement of Financial Position as of 31 December 20X4.",
+      "options": [
+        "$518,000",
+        "$509,000",
+        "$530,000",
+        "$512,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Post-acquisition profit của Sterling = 60,000 × 6/12 = $30,000. Harbor share = 60% × 30,000 = $18,000. Subsidiary là seller → unrealised profit phân bổ: 60% × 10,000 = $6,000 trừ vào Group RE. Consolidated RE = 500,000 + 18,000 - 6,000 = $512,000."
+    },
+    {
+      "id": "q7",
+      "question": "When a parent issues its own shares to acquire a subsidiary, at what value is the consideration recorded?",
+      "options": [
+        "The total book value of the subsidiary's net assets.",
+        "The historical cost of the parent's shares when the company was first formed.",
+        "The nominal (par) value of the shares issued.",
+        "The market value of the parent's shares at the date of acquisition."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi công ty mẹ phát hành cổ phiếu để mua công ty con, giá trị ghi nhận là giá thị trường của cổ phiếu tại ngày mua."
+    },
+    {
+      "id": "q8",
+      "question": "If revenue is $100,000 and cost of sales is $55,000, what is the gross profit margin?",
+      "options": [
+        "60%",
+        "55%",
+        "10%",
+        "45%"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gross profit = 100,000 - 55,000 = $45,000. GP margin = 45,000 / 100,000 = 45%."
+    },
+    {
+      "id": "q9",
+      "question": "What is a common difficulty when using industry averages for comparison in ratio analysis?",
+      "options": [
+        "Identifying a truly comparable standard or average that matches the company's specific mix of business.",
+        "Industry averages are only published every ten years.",
+        "Industry averages are always 100% accurate for every company.",
+        "It is illegal to use industry averages in financial analysis."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khó tìm được một chuẩn so sánh thực sự phù hợp với cơ cấu kinh doanh cụ thể của từng công ty."
+    },
+    {
+      "id": "q10",
+      "question": "A retail firm has a Current Ratio of 3.2 and a Quick Ratio (Acid Test) of 0.6. The industry average Current Ratio is 2.0. The company has recently increased its bank overdraft to fund a bulk purchase of seasonal stock. Which of the following is the most accurate assessment of the company's liquidity?",
+      "options": [
+        "The existence of a bank overdraft automatically indicates that the company is insolvent, regardless of asset levels.",
+        "The company is likely overstocking, creating a liquidity trap where cash is tied up in non-liquid assets despite a high Current Ratio.",
+        "The high Current Ratio suggests that the company is managing its payables effectively by delaying payments to suppliers.",
+        "The company is in a strong liquidity position because its Current Ratio significantly exceeds the industry norm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Current Ratio cao (3.2) nhưng Quick Ratio rất thấp (0.6) cho thấy phần lớn tài sản ngắn hạn là hàng tồn kho, tiền mặt bị kẹt trong tài sản không thanh khoản — dấu hiệu của việc tích trữ hàng quá mức."
+    },
+    {
+      "id": "q11",
+      "question": "What is a subsidiary?",
+      "options": [
+        "An entity that has a smaller office than the parent.",
+        "An entity that owes money to a bank.",
+        "An entity that is controlled by another entity.",
+        "An entity that sells products on behalf of a parent."
+      ],
+      "correctIndex": 2,
+      "explanation": "Công ty con là công ty bị kiểm soát bởi một công ty khác (công ty mẹ)."
+    },
+    {
+      "id": "q12",
+      "question": "Why would a customer be interested in a company's financial stability?",
+      "options": [
+        "To see if they can buy shares at a discount.",
+        "To find out the salary of the marketing manager.",
+        "To judge if the company will continue in existence, especially for long-term dependence.",
+        "To calculate the company's tax liability for the government."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khách hàng quan tâm đến sự ổn định tài chính để đánh giá khả năng tồn tại lâu dài của công ty, đặc biệt khi có sự phụ thuộc dài hạn về bảo hành, linh kiện, dịch vụ."
+    },
+    {
+      "id": "q13",
+      "question": "Which of following situations indicates control even if a parent owns only 40% of the voting shares?",
+      "options": [
+        "The subsidiary is located in the same country as the parent.",
+        "The parent receives a 40% dividend from the subsidiary.",
+        "The parent has the power to appoint or remove a majority of the board of directors.",
+        "The parent and subsidiary share a similar brand name."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kiểm soát có thể đạt được khi có quyền bổ nhiệm hoặc bãi miễn đa số thành viên HĐQT, bất kể tỷ lệ sở hữu cổ phần."
+    },
+    {
+      "id": "q14",
+      "question": "How is the debt ratio of a company calculated?",
+      "options": [
+        "Current assets divided by Current liabilities.",
+        "Gross profit divided by Interest expense.",
+        "Total debts divided by Total assets.",
+        "Long-term debt divided by Shareholders' equity."
+      ],
+      "correctIndex": 2,
+      "explanation": "Debt ratio = Total debts / Total assets. Tỷ số này đo lường mức độ tài trợ bằng nợ so với tổng tài sản."
+    },
+    {
+      "id": "q15",
+      "question": "What does the \"Asset Turnover\" ratio measure?",
+      "options": [
+        "The percentage of profit made on each dollar of sales.",
+        "How well the assets of a business are being used to generate sales revenue.",
+        "How often the company replaces its machinery.",
+        "The ratio of current assets to current liabilities."
+      ],
+      "correctIndex": 1,
+      "explanation": "Asset Turnover = Revenue / Total Assets, đo lường hiệu quả sử dụng tài sản để tạo ra doanh thu."
+    },
+    {
+      "id": "q16",
+      "question": "Which ratio is a measure of how well a company using its resources to generate a return for all stakeholders?",
+      "options": [
+        "Return on Capital Employed",
+        "Current Ratio",
+        "Gross Profit Margin",
+        "Inventory Turnover Days"
+      ],
+      "correctIndex": 0,
+      "explanation": "ROCE (Return on Capital Employed) đo lường hiệu quả sử dụng vốn để tạo ra lợi nhuận cho tất cả các bên cung cấp vốn."
+    },
+    {
+      "id": "q17",
+      "question": "In a Consolidated Statement of Profit or Loss, what happens to the total value of intra-group sales?",
+      "options": [
+        "No adjustment is made to the Profit or Loss; only the Balance Sheet is changed.",
+        "Only the profit is removed from revenue.",
+        "The full value of the sales is deducted from both revenue and cost of sales.",
+        "The sales value is added to goodwill."
+      ],
+      "correctIndex": 2,
+      "explanation": "Toàn bộ giá trị bán hàng nội bộ được loại trừ khỏi cả doanh thu lẫn giá vốn hàng bán để tránh tính trùng trong báo cáo hợp nhất."
+    }
+  ]
+}

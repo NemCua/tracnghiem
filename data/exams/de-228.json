@@ -1,0 +1,247 @@
+{
+  "id": "de-228",
+  "title": "Đề 228 — Kế Toán Tài Chính Quốc Tế 2",
+  "description": "Bộ câu hỏi ôn tập kế toán tài chính quốc tế (Mã đề 228).",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "A specialised engineering firm provides the following data from its ledger:\n- Gross Trade Receivables: $250,000\n- Allowance for Doubtful Debts: $45,000\n- Inventory: $120,000\n- Bank Overdraft: $80,000\n- Accrued Operating Expenses: $25,000\n- Trade Payables: $50,000\nWhat is the most accurate Acid Test Ratio for the firm?",
+      "options": [
+        "1.90:1",
+        "2.10:1",
+        "1.32:1",
+        "1.52:1"
+      ],
+      "correctIndex": 2,
+      "explanation": "Acid Test = Liquid Assets / Current Liabilities. Liquid Assets = 250,000 - 45,000 = 205,000 (loại Inventory). Current Liabilities = 80,000 + 25,000 + 50,000 = 155,000. Acid Test = 205,000 / 155,000 = 1.32:1."
+    },
+    {
+      "id": "q2",
+      "question": "What is considered the key to obtaining meaningful information from ratio analysis?",
+      "options": [
+        "Comparison over time or against similar businesses.",
+        "Ensuring all ratios result in a positive integer.",
+        "Using the exact same ratios for a bank and a retail store.",
+        "Calculating every possible ratio regardless of industry relevance."
+      ],
+      "correctIndex": 0,
+      "explanation": "Để phân tích tỷ số có ý nghĩa, cần so sánh theo thời gian hoặc với các doanh nghiệp tương tự trong cùng ngành."
+    },
+    {
+      "id": "q3",
+      "question": "Efficiency ratios (also known as turnover ratios) are used to establish:",
+      "options": [
+        "The total amount of interest paid on bank overdrafts.",
+        "How successfully the company is managing its assets.",
+        "The amount of tax the company owes to the government.",
+        "The market price of the company's current and non-current assets."
+      ],
+      "correctIndex": 1,
+      "explanation": "Efficiency ratios đo lường mức độ hiệu quả trong việc quản lý tài sản của doanh nghiệp."
+    },
+    {
+      "id": "q4",
+      "question": "Donna Co acquired 80% of the equity share capital of Blitsen Co on 1 January 20X4 when the retained earnings of Blitsen Co were $40,000. The fair value of the non-controlling interest at this date was $25,000. At 31 December 20X4, the equity capital of Blitsen Co was as follows:\n- Share capital: $40,000\n- Share premium: $10,000\n- Retained earnings: $60,000\nDuring the year Blitsen Co sold goods to Donna Co for $20,000. This price included a mark-up of $12,000 for profit. At 31 December 20X4, 50% of these goods remained unsold in the inventory of Donna Co. What is the value of the non-controlling interest in the Donna Group at 31 December 20X4, for the purpose of preparing the consolidated statement of financial position?",
+      "options": [
+        "$26,600",
+        "$27,800",
+        "$29,000",
+        "$20,800"
+      ],
+      "correctIndex": 1,
+      "explanation": "NCI tại ngày mua = $25,000. Post-acquisition RE = 60,000 - 40,000 = $20,000. NCI share = 20% × 20,000 = $4,000. Unrealised profit = 50% × 12,000 = $6,000, NCI chịu 20% × 6,000 = $1,200. NCI = 25,000 + 4,000 - 1,200 = $27,800."
+    },
+    {
+      "id": "q5",
+      "question": "What does \"non-controlling interest\" represent in a consolidated statement of financial position?",
+      "options": [
+        "The equity in a subsidiary not attributable, directly or indirectly, to a parent.",
+        "The total debt of the group held by external banks.",
+        "The percentage of the factory that the parent is not allowed to enter.",
+        "The amount of money the parent owes to the subsidiary."
+      ],
+      "correctIndex": 0,
+      "explanation": "NCI là phần vốn chủ sở hữu trong công ty con không thuộc về công ty mẹ, trực tiếp hay gián tiếp."
+    },
+    {
+      "id": "q6",
+      "question": "At year-end, Sing Co (Parent) shows an investment of $80,000 in wholly controlled Wing Co. Also, Wing Co has $50,000 share capital. Consolidated goodwill recognised at $20,000 (No impairment). What were Wing Co's retained earnings at the date of acquisition?",
+      "options": [
+        "$20,000",
+        "$30,000",
+        "$0",
+        "$10,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Goodwill = Consideration - Net Assets. 20,000 = 80,000 - (50,000 + RE). RE = 80,000 - 50,000 - 20,000 = $10,000."
+    },
+    {
+      "id": "q7",
+      "question": "A company reported the following year-end data:\n- Cost of Sales: $145,000\n- Opening Inventory: $12,000\n- Closing Inventory: $15,000\n- Trade Payables: $16,500\n- Cash Purchases: $20,000\nWhat is the accounts payable payment period for the credit purchases made during the year (using 365 days)?",
+      "options": [
+        "50 days",
+        "42 days",
+        "39 days",
+        "47 days"
+      ],
+      "correctIndex": 3,
+      "explanation": "Credit purchases = 145,000 + 15,000 - 12,000 - 20,000 = $128,000. AP days = (16,500 / 128,000) × 365 = 47 days."
+    },
+    {
+      "id": "q8",
+      "question": "What is a major information problem when using published financial statements for ratio analysis?",
+      "options": [
+        "The base information is often out of date, leading to problems of interpretation.",
+        "The figures are written in a manner that only auditors can understand.",
+        "Published accounts are only available to the company's directors.",
+        "The information is updated every hour, making it too fast to track."
+      ],
+      "correctIndex": 0,
+      "explanation": "Báo cáo tài chính thường là thông tin cũ, gây khó khăn cho việc phân tích và đánh giá hiện tại."
+    },
+    {
+      "id": "q9",
+      "question": "What is the correct formula for calculating goodwill when a Non-Controlling Interest (NCI) exists?",
+      "options": [
+        "Net Assets at acquisition - Consideration - NCI",
+        "Consideration + Fair Value of NCI - Fair Value of Net Assets at acquisition",
+        "Consideration - NCI + Net Assets at acquisition",
+        "Consideration - Net Assets at acquisition - NCI"
+      ],
+      "correctIndex": 1,
+      "explanation": "Goodwill = Consideration + Fair Value of NCI - Fair Value of Net Assets at acquisition. Đây là công thức chuẩn theo IFRS 3."
+    },
+    {
+      "id": "q10",
+      "question": "Why are pre-acquisition profits not included in consolidated retained earnings?",
+      "options": [
+        "Because they are considered a liability by IFRS.",
+        "Because they were not earned by the group; they are part of what the parent purchased for its investment.",
+        "Because they must be paid out as dividends immediately.",
+        "Because they are already included in the parent's share capital."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lợi nhuận trước ngày mua là một phần của giá mua, không phải do tập đoàn tạo ra sau khi kiểm soát."
+    },
+    {
+      "id": "q11",
+      "question": "What do profitability and return ratios primarily measure?",
+      "options": [
+        "How effectively a company has used its resources to generate profit.",
+        "The ratio of long-term debt to total equity.",
+        "The total amount of cash currently held in the bank account.",
+        "The speed at which a company pays its suppliers."
+      ],
+      "correctIndex": 0,
+      "explanation": "Profitability ratios đo lường hiệu quả sử dụng nguồn lực để tạo ra lợi nhuận."
+    },
+    {
+      "id": "q12",
+      "question": "How are dividends received from an associate treated in the statement of financial position of the investor?",
+      "options": [
+        "They are recorded as current liability.",
+        "They are ignored because they are non-cash transactions.",
+        "They increase the carrying amount of the investment in associate.",
+        "They reduce the carrying amount of the investment in associate."
+      ],
+      "correctIndex": 3,
+      "explanation": "Theo equity method, cổ tức nhận được từ associate làm GIẢM giá trị ghi sổ của khoản đầu tư vì lợi nhuận đã được ghi nhận trước đó qua share of profit."
+    },
+    {
+      "id": "q13",
+      "question": "Vaynor Co acquired 100% of the ordinary shares in Weeton Co and Yarlet Co some years ago. Extracts from the statements of financial position of the 3 companies as on 30 September 20X7 were as follows:\n- Vaynor retained earnings: $90,000\n- Weeton retained earnings: $40,000\n- Yarlet retained earnings: $70,000\nAt acquisition Weeton Co had retained losses of $10,000 and Yarlet Co had retained earnings of $30,000. What are the consolidated retained earnings on 30 September 20X7?",
+      "options": [
+        "$220,000",
+        "$200,000",
+        "$160,000",
+        "$180,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vaynor RE = $90,000. Weeton post-acquisition = 40,000 - (-10,000) = $50,000. Yarlet post-acquisition = 70,000 - 30,000 = $40,000. Consolidated RE = 90,000 + 50,000 + 40,000 = $180,000."
+    },
+    {
+      "id": "q14",
+      "question": "What is the correct journal entry for a unrealised profit adjustment when a 20% Non-Controlling Interest (NCI) exists and the subsidiary is the seller?",
+      "options": [
+        "Dr Group Retained Earnings (100%), Cr Group Inventory (100%)",
+        "Dr NCI (100%), Cr Group Retained Earnings (100%)",
+        "Dr Group Inventory (100%), Cr Group Retained Earnings (100%)",
+        "Dr Group Retained Earnings (80%), Dr NCI (20%), Cr Group Inventory (100%)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi subsidiary là seller, unrealised profit được phân bổ theo tỷ lệ sở hữu 80/20 giữa Group RE và NCI."
+    },
+    {
+      "id": "q15",
+      "question": "Which two ratios contribute to and explain the return on capital employed?",
+      "options": [
+        "Current Ratio and Quick Ratio.",
+        "Profit Margin and Asset Turnover.",
+        "Inventory Turnover and Gearing.",
+        "Gross Profit and Net Profit."
+      ],
+      "correctIndex": 1,
+      "explanation": "ROCE = Profit Margin × Asset Turnover. Đây là công thức phân tích ROCE theo hai thành phần chính."
+    },
+    {
+      "id": "q16",
+      "question": "If a company's gross profit margin improves compared with the last year figure, but its net profit margin stays the same, what is the likely cause?",
+      "options": [
+        "The cost of raw materials has decreased significantly.",
+        "The company has stopped paying interest on its loans.",
+        "Operating expenses have increased.",
+        "Sales volume has decreased."
+      ],
+      "correctIndex": 2,
+      "explanation": "Gross profit margin tăng nhưng net profit margin không thay đổi → operating expenses phải tăng để bù vào phần lợi nhuận gộp tăng thêm."
+    },
+    {
+      "id": "q17",
+      "question": "How does technology create a limitation for ratio analysis?",
+      "options": [
+        "Technology makes it impossible to calculate simple ratios.",
+        "Technology only affects the interest cover and gross profit margin ratio.",
+        "All technological assets must be depreciated in the first month.",
+        "Changes in technology impact the price of assets and their likely return."
+      ],
+      "correctIndex": 3,
+      "explanation": "Công nghệ thay đổi ảnh hưởng đến giá trị tài sản và khả năng sinh lời kỳ vọng, gây khó khăn cho việc so sánh tỷ số."
+    },
+    {
+      "id": "q18",
+      "question": "How do changes in accounting policies impact the reliability of financial ratio analysis?",
+      "options": [
+        "Regulatory frameworks, such as IFRS and GAAP, restrict any modifications to accounting estimates or policies to a mandatory fifty-year cycle.",
+        "They serve as a standardised mechanism to eliminate volatility, ensuring that net income remains consistent regardless of market fluctuations.",
+        "They can significantly distort reported financial results, undermining the comparability of performance across different fiscal periods.",
+        "Ratio calculations are derived exclusively from raw transactional data and are therefore immune to the subjective selection of accounting methodologies."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thay đổi chính sách kế toán có thể làm sai lệch kết quả tài chính, gây khó khăn khi so sánh giữa các kỳ."
+    },
+    {
+      "id": "q19",
+      "question": "Which of the following is considered one of the problems when comparing companies?",
+      "options": [
+        "Differences in accounting policies, particularly regarding non-current assets and inventory valuation.",
+        "Both companies having the same year-end date.",
+        "The distance between the companies' head offices.",
+        "Differences in the names of the company directors."
+      ],
+      "correctIndex": 0,
+      "explanation": "Sự khác biệt về chính sách kế toán, đặc biệt liên quan đến tài sản dài hạn và định giá hàng tồn kho, là vấn đề lớn khi so sánh các công ty."
+    },
+    {
+      "id": "q20",
+      "question": "What is unrealised profit in the context of a group?",
+      "options": [
+        "The dividend paid by the subsidiary to the parent company.",
+        "Profit made by one group company selling to another where the goods are still held in inventory at the year-end.",
+        "The total revenue earned by a subsidiary during the first month of acquisition.",
+        "Profit made by the parent company when selling to an external customer on credit."
+      ],
+      "correctIndex": 1,
+      "explanation": "Unrealised profit là lợi nhuận phát sinh khi một công ty trong tập đoàn bán hàng cho công ty khác trong cùng tập đoàn, mà hàng đó vẫn còn tồn kho cuối năm."
+    }
+  ]
+}
