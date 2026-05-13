@@ -1,0 +1,211 @@
+{
+  "id": "de-194",
+  "title": "Đề 194 — Kế Toán Tài Chính Quốc Tế 2",
+  "description": "Bộ câu hỏi ôn tập kế toán tài chính quốc tế 2 (Mã đề 194).",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "How is the debt ratio of a company calculated?",
+      "options": [
+        "Gross profit divided by Interest expense.",
+        "Long-term debt divided by Shareholders' equity.",
+        "Current assets divided by Current liabilities.",
+        "Total debts divided by Total assets."
+      ],
+      "correctIndex": 3,
+      "explanation": "Debt ratio = Total debts / Total assets. Đo lường mức độ tài trợ bằng nợ so với tổng tài sản."
+    },
+    {
+      "id": "q2",
+      "question": "If a parent sells inventory to a subsidiary at a profit, and the subsidiary still holds that inventory at year-end, what must be done?",
+      "options": [
+        "The unrealised profit must be eliminated from the consolidated inventory and profit.",
+        "The sale should be recorded twice to show the group is active.",
+        "Nothing, because the sale was at a fair market price.",
+        "The profit should be given in the non-controlling interest."
+      ],
+      "correctIndex": 0,
+      "explanation": "Unrealised profit phải được loại trừ khỏi cả inventory và lợi nhuận hợp nhất để tránh tính trùng lợi nhuận chưa thực hiện."
+    },
+    {
+      "id": "q3",
+      "question": "How are dividends received from an associate treated in the statement of financial position of the investor?",
+      "options": [
+        "They increase the carrying amount of the investment in associate.",
+        "They are recorded as current liability.",
+        "They reduce the carrying amount of the investment in associate.",
+        "They are ignored because they are non-cash transactions."
+      ],
+      "correctIndex": 2,
+      "explanation": "Theo equity method, cổ tức nhận được từ associate làm GIẢM giá trị ghi sổ của khoản đầu tư vì lợi nhuận đã được ghi nhận trước đó qua share of profit."
+    },
+    {
+      "id": "q4",
+      "question": "What do profitability and return ratios primarily measure?",
+      "options": [
+        "The speed at which a company pays its suppliers.",
+        "How effectively a company has used its resources to generate profit.",
+        "The total amount of cash currently held in the bank account.",
+        "The ratio of long-term debt to total equity."
+      ],
+      "correctIndex": 1,
+      "explanation": "Profitability ratios đo lường hiệu quả sử dụng nguồn lực để tạo ra lợi nhuận cho doanh nghiệp."
+    },
+    {
+      "id": "q5",
+      "question": "When a parent issues its own shares to acquire a subsidiary, at what value is the consideration recorded?",
+      "options": [
+        "The historical cost of the shares when the company was first formed.",
+        "The nominal (par) value of the shares issued.",
+        "The total book value of the subsidiary's net assets.",
+        "The market value of the parent's shares at the date of acquisition."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi công ty mẹ phát hành cổ phiếu để mua công ty con, giá trị ghi nhận là giá thị trường của cổ phiếu tại ngày mua."
+    },
+    {
+      "id": "q6",
+      "question": "Natalie Co holds 100% ordinary shares of Suli Co. Each company's information of inventories in their individual financial statement at the year-end is as follows:\n- Suli Co: $800,000\n- Natalie Co: $400,000\nDuring the year, Natalie Co total sales to Suli Co were invoiced at $300,000 which included a profit 25% on cost. Two thirds of these goods were still in Suli's warehouse at the year end. The value of inventories appears in the consolidated statement of financial position is:",
+      "options": [
+        "$1,150,000",
+        "$1,000,000",
+        "$1,160,000",
+        "$1,140,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Markup 25% on cost = 20% on sales price. Goods still in Suli warehouse = 2/3 × $300,000 = $200,000. Unrealised profit = $200,000 × 20% = $40,000. Consolidated inventory = 800,000 + 400,000 - 40,000 = $1,160,000."
+    },
+    {
+      "id": "q7",
+      "question": "Heritage Co acquired 80% of Solstice Ltd on 1 July 20X5 (mid-year). For the year ended 31 December 20X5, the following data is available:\nCost of Sales: Heritage Co $600,000; Solstice Ltd $300,000.\nDuring the post-acquisition period, Solstice Ltd sold goods to Heritage Co for $50,000 at a 25% mark-up on cost. Half of these goods remain in Heritage Co's inventory at year-end. Assume expenses accrue evenly throughout the year.\nCalculate the Consolidated Cost of Sales for the year ended 31 December 20X5.",
+      "options": [
+        "$755,000",
+        "$895,000",
+        "$700,000",
+        "$705,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Heritage CoS = $600,000. Solstice CoS post-acquisition = 300,000 × 6/12 = $150,000. Loại trừ intra-group sale = -$50,000. Unrealised profit = 1/2 × $50,000 × 25/125 = $5,000 (cộng vào CoS). Consolidated CoS = 600,000 + 150,000 - 50,000 + 5,000 = $705,000."
+    },
+    {
+      "id": "q8",
+      "question": "At year-end, Sing Co shows an investment of $80,000 in wholly controlled Wing Co. Also, Wing Co has $50,000 share capital. Consolidated goodwill recognised at $20,000 (No impairment). What were Wing Co's retained earnings at the date of acquisition?",
+      "options": [
+        "$20,000",
+        "$0",
+        "$10,000",
+        "$30,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Goodwill = Consideration - Net Assets. 20,000 = 80,000 - (50,000 + RE). RE = 80,000 - 50,000 - 20,000 = $10,000."
+    },
+    {
+      "id": "q9",
+      "question": "Why are consolidated financial statements considered necessary for users?",
+      "options": [
+        "They provide a complete picture of the financial position of the economic group as a whole.",
+        "They hide the debts of the parent company.",
+        "They are only for use by the subsidiary's employees.",
+        "They allow the parent company to pay less tax."
+      ],
+      "correctIndex": 0,
+      "explanation": "Báo cáo hợp nhất cung cấp bức tranh đầy đủ về tình hình tài chính của cả tập đoàn như một tổng thể kinh tế."
+    },
+    {
+      "id": "q10",
+      "question": "Why is ratio analysis in its own not sufficient for interpreting financial statements?",
+      "options": [
+        "Ratios are always mathematically incorrect due to rounding.",
+        "Other items like the age of assets and future market developments must also be considered.",
+        "Ratios do not use any data from the Statement of Profit or Loss.",
+        "International standards prohibit the use of ratios for decision making."
+      ],
+      "correctIndex": 1,
+      "explanation": "Phân tích tỷ số không đủ vì còn cần xem xét các yếu tố khác như tuổi tài sản, triển vọng thị trường, yếu tố định tính..."
+    },
+    {
+      "id": "q11",
+      "question": "If a parent company has a $1,000 bank balance and the subsidiary has a $3,000 bank overdraft, how are they presented in the consolidated statement of financial position?",
+      "options": [
+        "They are added together to show $4,000 in cash.",
+        "They are netted off to show $2,000 liquid assets.",
+        "They are both deleted from the consolidated accounts.",
+        "They are shown separately: $1,000 as an asset and $3,000 as a current liability."
+      ],
+      "correctIndex": 3,
+      "explanation": "Theo nguyên tắc hợp nhất, không được bù trừ tài sản và nợ trừ khi có hợp đồng pháp lý rõ ràng. Trình bày riêng: $1,000 là tài sản và $3,000 là current liability."
+    },
+    {
+      "id": "q12",
+      "question": "What is the focus of short-term solvency and liquidity ratios?",
+      "options": [
+        "The percentage of profit paid out as dividends to shareholders.",
+        "The long-term repayment schedule of 10 year loan notes.",
+        "The total value of non-current assets held by the company.",
+        "The ability of a company to meet its debts as they fall due in the near future."
+      ],
+      "correctIndex": 3,
+      "explanation": "Short-term solvency và liquidity ratios tập trung vào khả năng thanh toán nợ ngắn hạn khi đến hạn."
+    },
+    {
+      "id": "q13",
+      "question": "What is trade investment?",
+      "options": [
+        "A loan given to a customer to help them buy goods.",
+        "An investment in shares held for wealth accretion that is not an associate or subsidiary.",
+        "An investment that gives the parent 51% voting rights.",
+        "An investment where the parent manages the daily operations of the investee."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trade investment là khoản đầu tư cổ phiếu nắm giữ để tăng trưởng tài sản, không đủ điều kiện là associate (dưới 20%) hay subsidiary."
+    },
+    {
+      "id": "q14",
+      "question": "In the context of financing analysing, what does the cash operating cycle describe?",
+      "options": [
+        "The time it takes for a director to be re-elected.",
+        "The process of printing new banknotes by the government.",
+        "The flow of cash out of a business and back into it again through normal trading operations.",
+        "The speed at which a company replaces its non-current assets."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cash operating cycle mô tả vòng tuần hoàn của tiền mặt: từ khi bỏ ra mua hàng/sản xuất đến khi thu tiền về từ khách hàng."
+    },
+    {
+      "id": "q15",
+      "question": "Which of following situations indicates control even if a parent owns only 40% of the voting shares?",
+      "options": [
+        "The subsidiary is located in the same country as the parent.",
+        "The parent has the power to appoint or remove a majority of the board of directors.",
+        "The parent and subsidiary share a similar brand name.",
+        "The parent receives a 40% dividend from the subsidiary."
+      ],
+      "correctIndex": 1,
+      "explanation": "Có quyền bổ nhiệm hoặc bãi miễn đa số thành viên HĐQT là đủ để kiểm soát, bất kể tỷ lệ sở hữu cổ phần."
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following is generally considered the most liquid asset?",
+      "options": [
+        "Trade receivables",
+        "Capitalised development costs",
+        "Brand names and trademarks",
+        "Factory buildings"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trade receivables là tài sản thanh khoản nhất trong các lựa chọn — có thể chuyển thành tiền mặt trong ngắn hạn. Các tài sản còn lại là phi tiền tệ dài hạn."
+    },
+    {
+      "id": "q17",
+      "question": "What is a common difficulty when using industry averages for comparison in ratio analysis?",
+      "options": [
+        "Industry averages are always 100% accurate for every company.",
+        "Industry averages are only published every ten years.",
+        "It is illegal to use industry averages in financial analysis.",
+        "Identifying a truly comparable standard or average that matches the company's specific mix of business."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khó tìm được một chuẩn so sánh thực sự phù hợp với cơ cấu kinh doanh cụ thể của từng công ty, đặc biệt với các công ty đa ngành."
+    }
+  ]
+}
