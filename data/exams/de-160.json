@@ -1,0 +1,247 @@
+{
+  "id": "de-160",
+  "title": "Đề 160 — Kế Toán Tài Chính Quốc Tế",
+  "description": "Bộ câu hỏi ôn tập kế toán tài chính quốc tế (Mã đề 160).",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Titan Co acquired a controlling interest in Luna Ltd on 1 October 20X5. Luna Ltd's financial year ends on 31 December each year. For the full financial year ended 31 December 20X5, Luna Ltd reported a total profit after tax of $12,000. It is assumed that profits accrue evenly throughout the year. How much of the annual profit should be classified as pre-acquisition profit for the purpose of consolidated financial statements?",
+      "options": [
+        "$12,000",
+        "$9,000",
+        "$3,000",
+        "$6,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Titan mua Luna ngày 1/10/20X5, tức chỉ nắm quyền kiểm soát 3 tháng cuối năm (Oct-Dec). Pre-acquisition = 9/12 × $12,000 = $9,000."
+    },
+    {
+      "id": "q2",
+      "question": "Which of following situations indicates control even if a parent owns only 40% of the voting shares?",
+      "options": [
+        "The parent has the power to appoint or remove a majority of the board of directors.",
+        "The subsidiary is located in the same country as the parent.",
+        "The parent and subsidiary share a similar brand name.",
+        "The parent receives a 40% dividend from the subsidiary."
+      ],
+      "correctIndex": 0,
+      "explanation": "Có quyền bổ nhiệm hoặc bãi miễn đa số thành viên HĐQT là đủ để kiểm soát, bất kể tỷ lệ sở hữu cổ phần."
+    },
+    {
+      "id": "q3",
+      "question": "Why is the analysis of accounting information considered to be of limited use on its own?",
+      "options": [
+        "It provides objective data that automatically eliminates the need for managerial judgment.",
+        "It captures all qualitative aspects of a business, such as brand reputation and employee morale.",
+        "It just identifies symptoms of a company's performance, not the underlying causes.",
+        "It allows for the 100% accurate prediction of future market trends based on historical trends."
+      ],
+      "correctIndex": 2,
+      "explanation": "Phân tích kế toán chỉ nhận diện triệu chứng, không giải thích nguyên nhân sâu xa của hiệu quả hoạt động."
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following is evidence that an investor has significant influence over an investee?",
+      "options": [
+        "The investor provides a small, one-time loan to the investee.",
+        "The investor holds 5% of the shares and has no contact with management.",
+        "Representation on the board of directors of the investee.",
+        "The investor and investee are in completely different industries."
+      ],
+      "correctIndex": 2,
+      "explanation": "Có đại diện trong HĐQT là bằng chứng rõ ràng nhất của significant influence theo IAS 28."
+    },
+    {
+      "id": "q5",
+      "question": "Vayron Co acquired 100% of the ordinary shares in Weeton Co and Yarlet Co some years ago. Extracts from the statements of financial position of the 3 companies as at 30 September 20X7 were as follows:\n- Vayron retained earnings: $90,000\n- Weeton retained earnings: $40,000\n- Yarlet retained earnings: $70,000\nAt acquisition Weeton Co had retained losses of $10,000 and Yarlet Co had retained earnings of $30,000. What are the consolidated retained earnings on 30 September 20X7?",
+      "options": [
+        "$200,000",
+        "$160,000",
+        "$220,000",
+        "$180,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vayron RE = $90,000. Weeton post-acquisition = 40,000 - (-10,000) = $50,000 (vì tại ngày mua Weeton có retained LOSSES $10,000). Yarlet post-acquisition = 70,000 - 30,000 = $40,000. Consolidated RE = 90,000 + 50,000 + 40,000 = $180,000."
+    },
+    {
+      "id": "q6",
+      "question": "What might a high asset turnover indicate if achieved by keeping prices very low?",
+      "options": [
+        "That the company has too much inventory in the warehouse.",
+        "That the company has low profit margin on sales.",
+        "That the company is operating in a luxury, low-volume market.",
+        "That the capital employed is too high."
+      ],
+      "correctIndex": 1,
+      "explanation": "Giá thấp → doanh thu lớn → asset turnover cao, nhưng biên lợi nhuận thấp. ROCE = Profit Margin × Asset Turnover, nên asset turnover cao chưa chắc ROCE tốt."
+    },
+    {
+      "id": "q7",
+      "question": "Why are bare figures in financial statements considered not particularly useful on their own?",
+      "options": [
+        "Significance can only be established through comparisons with other relevant information or ratios.",
+        "They are always rounded to the nearest thousand, making them inaccurate.",
+        "They are only intended for use by the government tax authorities and key suppliers.",
+        "They do not include the risk associated with the company operation."
+      ],
+      "correctIndex": 0,
+      "explanation": "Con số đơn lẻ chỉ có ý nghĩa khi được so sánh với thông tin khác hoặc tỷ số — không có ngữ cảnh thì không thể đánh giá tốt hay xấu."
+    },
+    {
+      "id": "q8",
+      "question": "A company reported the following year-end data:\n- Cost of Sales: $145,000\n- Opening Inventory: $12,000\n- Closing Inventory: $15,000\n- Trade Payables: $16,500\n- Cash Purchases: $20,000\nWhat is the accounts payable payment period for the credit purchases made during the year (using 365 days)?",
+      "options": [
+        "47 days",
+        "39 days",
+        "42 days",
+        "50 days"
+      ],
+      "correctIndex": 0,
+      "explanation": "Credit purchases = CoS + Closing inventory - Opening inventory - Cash purchases = 145,000 + 15,000 - 12,000 - 20,000 = $128,000. AP days = (16,500 / 128,000) × 365 = 47 days."
+    },
+    {
+      "id": "q9",
+      "question": "What is the fundamental principle of consolidation?",
+      "options": [
+        "Listing all subsidiaries in the parent's notes without changing the balance sheet.",
+        "Adding the profits of two companies and dividing them by two.",
+        "Combining only the assets of companies that operate in the same industry.",
+        "Presenting the results, assets, and liabilities of a group as if they were a single company."
+      ],
+      "correctIndex": 3,
+      "explanation": "Nguyên tắc cơ bản của hợp nhất là trình bày kết quả, tài sản và nợ phải trả của cả tập đoàn như thể là một công ty duy nhất."
+    },
+    {
+      "id": "q10",
+      "question": "What is the main purpose of using accounting ratios when analysing financial statements?",
+      "options": [
+        "To summarise and present financial information in a more understandable form through comparison.",
+        "To replace the need for a Statement of Financial Position entirely.",
+        "To hide sensitive financial data from the company's competitors.",
+        "To guarantee that a company will be profitable in the next financial year."
+      ],
+      "correctIndex": 0,
+      "explanation": "Mục đích chính của tỷ số kế toán là tóm tắt và trình bày thông tin tài chính dễ hiểu hơn thông qua so sánh."
+    },
+    {
+      "id": "q11",
+      "question": "On 1/1/20X9, Kappa acquired 100% ordinary shares of Lamda at a total cost of $1,000,000. At this date, Lamda's financial position is measured at fair value and at following:\n- Ordinary share capital: $800,000\n- Retained earnings: $250,000\nWhich of the following is correct?",
+      "options": [
+        "NCI is $50,000",
+        "Loss on business combination is $50,000",
+        "Goodwill is $50,000",
+        "Gain from a bargain purchase is $50,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Net assets = 800,000 + 250,000 = $1,050,000. Consideration = $1,000,000. Vì consideration < net assets → Gain from bargain purchase = $50,000. Không có NCI vì mua 100%."
+    },
+    {
+      "id": "q12",
+      "question": "Harbor Co acquired a 60% equity interest in Sterling Ltd on 1 July 20X4 (exactly mid-year). Both companies have a financial year ending 31 December 20X4. The following information is available as of 31 December 20X4:\n- Harbor Co: Individual retained earnings are $500,000.\n- Sterling Ltd: Retained earnings were $100,000 on 1 January 20X4 and grew to $160,000 by 31 December 20X4. Profits are assumed to have accrued evenly.\n- During 20X4, Sterling Ltd (the subsidiary) sold goods to Harbor Co. At the year-end, the inventory of Harbor Co still included an unrealised profit of $10,000 from these sales.\nCalculate the consolidated retained earnings to be presented in the Harbor Group's Statement of Financial Position as of 31 December 20X4.",
+      "options": [
+        "$512,000",
+        "$509,000",
+        "$530,000",
+        "$518,000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Post-acquisition profit Sterling = 60,000 × 6/12 = $30,000. Harbor share = 60% × 30,000 = $18,000. Subsidiary là seller → Group RE chịu 60% × 10,000 = $6,000. Consolidated RE = 500,000 + 18,000 - 6,000 = $512,000."
+    },
+    {
+      "id": "q13",
+      "question": "If revenue is $100,000 and cost of sales is $55,000, what is the gross profit margin?",
+      "options": [
+        "45%",
+        "55%",
+        "60%",
+        "10%"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gross profit = 100,000 - 55,000 = $45,000. GP margin = 45,000 / 100,000 = 45%."
+    },
+    {
+      "id": "q14",
+      "question": "P Co buys 100% of S Co for $80,000. At acquisition, S Co has $50,000 share capital and $10,000 retained earnings. What is the goodwill?",
+      "options": [
+        "$30,000",
+        "$80,000",
+        "$70,000",
+        "$20,000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Net assets = 50,000 + 10,000 = $60,000. Goodwill = 80,000 - 60,000 = $20,000."
+    },
+    {
+      "id": "q15",
+      "question": "Consolidated financial statements are prepared based on which accounting concept?",
+      "options": [
+        "Substance over form",
+        "Historical cost",
+        "Materiality",
+        "Prudence"
+      ],
+      "correctIndex": 0,
+      "explanation": "Báo cáo hợp nhất dựa trên nguyên tắc Substance over form — nhìn vào bản chất kinh tế (tập đoàn là một thực thể) hơn là hình thức pháp lý (nhiều công ty riêng lẻ)."
+    },
+    {
+      "id": "q16",
+      "question": "How does a successful rights issue of shares affect a company's gearing (the ratio of debt to equity)?",
+      "options": [
+        "It has no effect on gearing.",
+        "It makes the company 100% debt-funded.",
+        "It increases gearing.",
+        "It decreases gearing."
+      ],
+      "correctIndex": 3,
+      "explanation": "Phát hành thêm cổ phiếu làm tăng equity → gearing (Debt/Equity) giảm."
+    },
+    {
+      "id": "q17",
+      "question": "How does diversification impair the comparability between companies?",
+      "options": [
+        "It makes the calculation of the current ratio impossible.",
+        "Diversification makes the company more profitable automatically.",
+        "A company involved in many industries is hard to compare against a specialist company.",
+        "Diversified companies are not required to publish financial statements."
+      ],
+      "correctIndex": 2,
+      "explanation": "Công ty hoạt động nhiều ngành khó so sánh với công ty chuyên ngành vì cơ cấu tỷ số tài chính khác nhau hoàn toàn."
+    },
+    {
+      "id": "q18",
+      "question": "How is an investment in an associate shown in the investor's statement of financial position?",
+      "options": [
+        "It is hidden within the \"Goodwill\" account.",
+        "By adding the associate's buildings and cash to the group's assets.",
+        "As a single line item under non-current assets called \"Investment in associate\".",
+        "As a current liability until the associate pays a dividend."
+      ],
+      "correctIndex": 2,
+      "explanation": "Theo IAS 28, khoản đầu tư vào công ty liên kết được trình bày là một dòng mục riêng trong Non-current assets: Investment in associate."
+    },
+    {
+      "id": "q19",
+      "question": "On 1 January 20X7, Parent Co acquired 90% of the equity share capital of Sub Co. At the date of acquisition, the fair value of the Non-controlling Interest (NCI) was $15,000. For the financial year ended 31 December 20X7, the following information is available:\n- Sub Co reported a profit for the year of $50,000.\n- During the year, Parent Co sold goods to Sub Co. At year-end, the inventory of Sub Co included an unrealised profit of $10,000 from this intra-group transaction.\nWhat is the value of the NCI to be presented in the Consolidated Statement of Financial Position as of 31 December 20X7?",
+      "options": [
+        "$25,000",
+        "$21,000",
+        "$20,000",
+        "$19,000"
+      ],
+      "correctIndex": 2,
+      "explanation": "NCI tại ngày mua = $15,000. NCI share of profit = 10% × $50,000 = $5,000. Parent là seller → unrealised profit 100% trừ vào Group RE, NCI không bị ảnh hưởng. NCI = 15,000 + 5,000 = $20,000."
+    },
+    {
+      "id": "q20",
+      "question": "What is a major information problem when using published financial statements for ratio analysis?",
+      "options": [
+        "The base information is often out of date, leading to problems of interpretation.",
+        "The figures are written in a manner that only auditors can understand.",
+        "The information is updated every hour, making it too fast to track.",
+        "Published accounts are only available to the company's directors."
+      ],
+      "correctIndex": 0,
+      "explanation": "Báo cáo tài chính công bố thường là thông tin cũ, gây khó khăn cho việc phân tích và đánh giá tình hình hiện tại."
+    }
+  ]
+}
