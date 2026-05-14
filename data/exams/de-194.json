@@ -206,6 +206,42 @@
       ],
       "correctIndex": 3,
       "explanation": "Khó tìm được một chuẩn so sánh thực sự phù hợp với cơ cấu kinh doanh cụ thể của từng công ty, đặc biệt với các công ty đa ngành."
+    },
+    {
+      "id": "q18",
+      "question": "What does the interest cover ratio indicate to a user of financial statements?",
+      "options": [
+        "The total amount of tax the company has saved.",
+        "The number of years remaining on a bank loan.",
+        "The percentage of sales made on interest cost.",
+        "Whether a company is earning enough profit before interest and tax to pay its interest costs."
+      ],
+      "correctIndex": 3,
+      "explanation": "Interest cover ratio = EBIT / Interest expense. Chỉ số này cho biết công ty có tạo ra đủ lợi nhuận trước lãi vay và thuế để trang trải chi phí lãi vay hay không."
+    },
+    {
+      "id": "q19",
+      "question": "What is the correct formula for calculating goodwill when a Non-Controlling Interest (NCI) exists?",
+      "options": [
+        "Consideration - NCI + Net Assets at acquisition - NCI",
+        "Net Assets at acquisition - Consideration - NCI",
+        "Consideration - Net Assets at acquisition - NCI",
+        "Consideration + Fair Value of NCI - Fair Value of Net Assets at acquisition"
+      ],
+      "correctIndex": 3,
+      "explanation": "Goodwill = Consideration + Fair Value of NCI - Fair Value of Net Assets at acquisition. Đây là công thức full goodwill method theo IFRS 3."
+    },
+    {
+      "id": "q20",
+      "question": "How does technology create a limitation for ratio analysis?",
+      "options": [
+        "Changes in technology impact the price of assets and their likely return.",
+        "Technology makes it impossible to calculate simple ratios.",
+        "Technology only affects the interest cover and gross profit margin ratio.",
+        "All technological assets must be depreciated in the first month."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thay đổi công nghệ ảnh hưởng đến giá trị tài sản và tỷ suất sinh lời kỳ vọng, làm cho việc so sánh các tỷ số giữa các thời kỳ hoặc giữa các công ty trở nên kém chính xác."
     }
   ]
 }
