@@ -1,0 +1,367 @@
+{
+  "id": "audit-assurance-exam1",
+  "title": "Audit and Assurance — Part 1 Exam 1",
+  "description": "Bộ câu hỏi ôn tập Audit and Assurance Part 1 (Exam 1), gồm 30 câu trắc nghiệm.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which of the following statements would NOT contribute to inherent risk?",
+      "options": [
+        "Complexity of business transactions",
+        "Poor supervision of accounting staff",
+        "High accounting staff turnover",
+        "Strict regulations on which the entity should be compliant with"
+      ],
+      "correctIndex": 1,
+      "explanation": "Poor supervision of accounting staff thuộc về control environment (môi trường kiểm soát), không phải inherent risk. Inherent risk liên quan đến bản chất của khoản mục, không phụ thuộc vào kiểm soát nội bộ."
+    },
+    {
+      "id": "q2",
+      "question": "Which of the following scenarios would NOT typically be considered an assurance engagement?",
+      "options": [
+        "Audit of financial statements",
+        "Review of sustainability report",
+        "Preparation of financial statements",
+        "Examination of internal control effectiveness"
+      ],
+      "correctIndex": 2,
+      "explanation": "Preparation of financial statements là dịch vụ kế toán (accounting service), không phải assurance engagement. Assurance engagement yêu cầu practitioner đưa ra kết luận về subject matter dựa trên bằng chứng thu thập được."
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following is a key distinguishing feature of a reasonable assurance engagement compared to a limited assurance engagement?",
+      "options": [
+        "Use of analytical procedures only",
+        "Lower level of assurance provided",
+        "No requirement for evidence gathering",
+        "A positive form of conclusion"
+      ],
+      "correctIndex": 3,
+      "explanation": "Reasonable assurance engagement đưa ra kết luận dạng positive (khẳng định), ví dụ: 'In our opinion, the financial statements give a true and fair view.' Limited assurance dùng kết luận dạng negative."
+    },
+    {
+      "id": "q4",
+      "question": "When planning the audit, materiality is used PRIMARILY to:",
+      "options": [
+        "Determine the audit fee",
+        "Decide the level of audit risk acceptable",
+        "Assess the significance of misstatements",
+        "Eliminate the need for sampling"
+      ],
+      "correctIndex": 2,
+      "explanation": "Materiality được dùng chủ yếu để đánh giá mức độ trọng yếu của các sai sót, từ đó xác định liệu sai sót có ảnh hưởng đến quyết định của người dùng báo cáo tài chính hay không."
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following is LEAST likely to be included in an audit plan?",
+      "options": [
+        "Nature, timing, and extent of audit procedures",
+        "Allocation of work to audit team members",
+        "The client's tax liability calculation",
+        "Risk assessment procedures"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tax liability calculation là công việc của client, không phải nội dung của audit plan. Audit plan tập trung vào các thủ tục kiểm toán, phân bổ nhân sự và đánh giá rủi ro."
+    },
+    {
+      "id": "q6",
+      "question": "During planning analytical procedures, the auditor identifies a significant increase in gross profit margin compared to prior years and industry averages. What is the MOST appropriate interpretation?",
+      "options": [
+        "There is a potential risk of misstatement requiring further investigation",
+        "The financial statements are likely free from material misstatement",
+        "No action is required at planning stage",
+        "The auditor should immediately qualify the audit opinion"
+      ],
+      "correctIndex": 0,
+      "explanation": "Biến động bất thường trong tỷ suất lợi nhuận gộp so với năm trước và trung bình ngành là dấu hiệu của rủi ro sai sót trọng yếu, cần điều tra thêm chứ không thể kết luận ngay."
+    },
+    {
+      "id": "q7",
+      "question": "Which of the following scenarios would MOST likely require the auditor to revise the overall audit strategy?",
+      "options": [
+        "Minor clerical errors identified in early testing",
+        "Discovery of a previously unknown related party transaction",
+        "Consistent application of accounting policies",
+        "Timely provision of documents by management"
+      ],
+      "correctIndex": 1,
+      "explanation": "Related party transaction mới phát hiện là thông tin trọng yếu có thể ảnh hưởng đến toàn bộ chiến lược kiểm toán vì tiềm ẩn rủi ro gian lận và sai sót. Các tình huống còn lại không làm thay đổi chiến lược tổng thể."
+    },
+    {
+      "id": "q8",
+      "question": "An audit firm is offered a significant non-audit service engagement by an audit client. Which threat to independence is most likely to arise in this situation?",
+      "options": [
+        "Familiarity threat",
+        "Self-review threat",
+        "Advocacy threat",
+        "Intimidation threat"
+      ],
+      "correctIndex": 1,
+      "explanation": "Self-review threat phát sinh khi kiểm toán viên phải xem xét kết quả công việc do chính mình hoặc công ty mình thực hiện trước đó (non-audit service). Điều này ảnh hưởng đến tính khách quan."
+    },
+    {
+      "id": "q9",
+      "question": "There is a material error in the draft financial statements caused by high control risk. Which of the following activities should be conducted to reduce the audit risk?",
+      "options": [
+        "Low inherent risk",
+        "High detection risk",
+        "Low detection risk",
+        "High inherent risk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Audit risk = Inherent risk x Control risk x Detection risk. Khi control risk cao, để giữ audit risk ở mức chấp nhận được, kiểm toán viên phải giảm detection risk bằng cách tăng cường các thủ tục kiểm tra substantive."
+    },
+    {
+      "id": "q10",
+      "question": "In terms of assurance services, which of following statements is correct?",
+      "options": [
+        "The practitioner provides absolute assurance engagement.",
+        "The practitioner prepares the assurance report for intended users.",
+        "The practitioner is the party responsible for the underlying subject matter.",
+        "The practitioner is the individual providing opinion about criteria."
+      ],
+      "correctIndex": 1,
+      "explanation": "Practitioner chuẩn bị và phát hành báo cáo assurance cho intended users. Assurance không bao giờ là tuyệt đối; responsible party mới chịu trách nhiệm về subject matter; criteria là chuẩn mực để đánh giá, không phải practitioner đưa ra."
+    },
+    {
+      "id": "q11",
+      "question": "Which of the following is the primary objective of corporate governance?",
+      "options": [
+        "Maximizing short-term profits",
+        "Ensuring accountability and transparency in the management of a company",
+        "Reducing audit fees",
+        "Eliminating all business risks"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mục tiêu chính của corporate governance là đảm bảo trách nhiệm giải trình và minh bạch trong quản lý doanh nghiệp, bảo vệ lợi ích của các stakeholders."
+    },
+    {
+      "id": "q12",
+      "question": "Who is ultimately responsible for a company's system of internal control?",
+      "options": [
+        "Internal auditors",
+        "Board of directors",
+        "Audit committee",
+        "External auditors"
+      ],
+      "correctIndex": 1,
+      "explanation": "Board of directors chịu trách nhiệm cuối cùng về hệ thống kiểm soát nội bộ của công ty. Internal auditors chỉ đánh giá và giám sát, còn external auditors không chịu trách nhiệm thiết kế hay duy trì hệ thống này."
+    },
+    {
+      "id": "q13",
+      "question": "Which cause does not make external auditors give absolute assurance over the truth and fairness of the financial statements?",
+      "options": [
+        "Because of the business risk of the company.",
+        "Because of the inherent limitations of the external audit.",
+        "Because of the timing limit.",
+        "Because of control risk."
+      ],
+      "correctIndex": 1,
+      "explanation": "Lý do cốt lõi khiến external auditors không thể cho absolute assurance là do inherent limitations của kiểm toán: sampling, judgment, tính chất của bằng chứng, v.v. Business risk hay control risk không phải lý do trực tiếp."
+    },
+    {
+      "id": "q14",
+      "question": "Which of the following are NOT recognized threats to independence and objectivity?",
+      "options": [
+        "Self-interest",
+        "Familiarity",
+        "Advocacy",
+        "Integrity"
+      ],
+      "correctIndex": 3,
+      "explanation": "Integrity là phẩm chất đạo đức của kiểm toán viên, không phải một mối đe dọa đến tính độc lập. Các mối đe dọa được công nhận gồm: self-interest, self-review, familiarity, advocacy, intimidation."
+    },
+    {
+      "id": "q15",
+      "question": "Which of the following factors is NOT a limitation of internal controls?",
+      "options": [
+        "The cost of control does not outweigh their benefit.",
+        "The philosophy and management style of management board.",
+        "Collusion between employees.",
+        "The possibility of controls being bypassed or overridden by management."
+      ],
+      "correctIndex": 0,
+      "explanation": "Việc chi phí kiểm soát không vượt quá lợi ích không phải là limitation mà là nguyên tắc thiết kế kiểm soát (cost-benefit principle). Các hạn chế thực sự gồm: thông đồng, management override, sai sót của con người."
+    },
+    {
+      "id": "q16",
+      "question": "Who normally appoints the external auditors of a company?",
+      "options": [
+        "Audit committee",
+        "Board of management",
+        "Shareholders",
+        "Directors"
+      ],
+      "correctIndex": 2,
+      "explanation": "Shareholders (cổ đông) bổ nhiệm external auditors tại Annual General Meeting (AGM). Audit committee có thể đề xuất nhưng quyết định chính thức thuộc về cổ đông."
+    },
+    {
+      "id": "q17",
+      "question": "Detection risk is:",
+      "options": [
+        "The risk that auditor's substantive procedures will NOT detect an existing material misstatement or error.",
+        "The susceptibility of an assertion to misstatements that could be material, before consideration of any related controls.",
+        "The risk that a misstatement that could occur in an assertion, and that could be material, will not be prevented, detected and corrected, on a timely basis by the entity's internal control.",
+        "The risk that the auditor expresses an inappropriate audit opinion when the financial statements are materially misstated."
+      ],
+      "correctIndex": 0,
+      "explanation": "Detection risk là rủi ro các thủ tục substantive của kiểm toán viên không phát hiện ra sai sót trọng yếu đang tồn tại. Đây là rủi ro duy nhất kiểm toán viên có thể kiểm soát trực tiếp."
+    },
+    {
+      "id": "q18",
+      "question": "Which of the following is the main role of non-executive directors (NEDs)?",
+      "options": [
+        "Day-to-day management of the company",
+        "Preparation of financial statements",
+        "Independent oversight and challenge to executive management",
+        "Performing audit procedures"
+      ],
+      "correctIndex": 2,
+      "explanation": "NEDs không tham gia vào điều hành hàng ngày mà có vai trò giám sát độc lập và thách thức các quyết định của ban điều hành, góp phần tăng cường corporate governance."
+    },
+    {
+      "id": "q19",
+      "question": "A company engages an external auditor to provide assurance on its greenhouse gas emissions report. The subject matter is the emissions data, while the criteria would most likely be:",
+      "options": [
+        "International Financial Reporting Standards",
+        "The company's internal policies only",
+        "Recognized environmental reporting frameworks",
+        "Auditor's professional judgment"
+      ],
+      "correctIndex": 2,
+      "explanation": "Criteria để đánh giá báo cáo phát thải khí nhà kính phải là các chuẩn mực báo cáo môi trường được công nhận (như GRI, TCFD), không phải IFRS hay chính sách nội bộ của công ty."
+    },
+    {
+      "id": "q20",
+      "question": "The auditors' duty is:",
+      "options": [
+        "Attending general meetings of the company.",
+        "Reporting whether the preparation and presentation of financial statements are consistent with the accounting framework.",
+        "Requiring from the company's officers such information and explanations as they think necessary for the performance of their duties as auditors.",
+        "Reporting whether the information in financial statements are prepared exactly."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhiệm vụ chính của auditor là báo cáo về tính nhất quán của việc lập và trình bày báo cáo tài chính với framework kế toán. Yêu cầu thông tin từ ban quản lý là quyền hạn, không phải nhiệm vụ chính."
+    },
+    {
+      "id": "q21",
+      "question": "During planning, the engagement partner decides to place reliance on internal controls due to a historically strong control environment. However, the client has recently undergone significant restructuring. What is the MOST appropriate audit response?",
+      "options": [
+        "Continue relying on prior year control testing without modification",
+        "Increase substantive procedures and reassess control risk",
+        "Ignore the restructuring as it does not affect financial reporting",
+        "Reduce audit testing due to past reliability"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi có sự thay đổi lớn trong cơ cấu tổ chức, kết quả kiểm tra kiểm soát năm trước không còn đáng tin cậy. Kiểm toán viên phải reassess control risk và tăng cường thủ tục substantive."
+    },
+    {
+      "id": "q22",
+      "question": "During planning, the auditor identifies that management has significant incentives tied to profit targets. Which of the following risks is MOST relevant?",
+      "options": [
+        "Detection risk",
+        "Control risk",
+        "Fraud risk related to revenue recognition",
+        "Sampling risk"
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi management có động cơ tài chính gắn với mục tiêu lợi nhuận, rủi ro gian lận liên quan đến ghi nhận doanh thu là cao nhất vì doanh thu là khoản mục dễ bị thao túng nhất để đạt mục tiêu."
+    },
+    {
+      "id": "q23",
+      "question": "Which of following statements is NOT true about the purpose of gaining an understanding of internal control?",
+      "options": [
+        "An understanding of internal control should assist the auditors in identifying type of potential misstatement and errors that cause the risk of material misstatement.",
+        "The auditors must understand the internal control to decide whether or not to perform substantive procedures.",
+        "An understanding of internal control assists the auditor in designing the nature, timing and extent of further audit procedures.",
+        "Gaining an understanding of internal control helps auditors to determine which are relevant to the audit."
+      ],
+      "correctIndex": 1,
+      "explanation": "Đây là câu NOT true: Hiểu biết về internal control không bắt buộc dẫn đến quyết định có hay không thực hiện substantive procedures. Substantive procedures luôn được thực hiện; mức độ phụ thuộc vào đánh giá rủi ro, không phải quyết định nhị phân."
+    },
+    {
+      "id": "q24",
+      "question": "The auditors of BBB company wish to reduce audit risk. Which of the following actions could help the auditor to achieve the goal?\n(1) Reduce inherent risk\n(2) Reduce control risk\n(3) Increase sample sizes\n(4) Assign more experienced staff to the engagement audit team",
+      "options": [
+        "(1) and (2)",
+        "(2) and (3)",
+        "(1) and (3)",
+        "(3) and (4)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Auditor không thể trực tiếp kiểm soát inherent risk hay control risk (đây là rủi ro của client). Auditor chỉ có thể giảm detection risk bằng cách tăng sample sizes (3) và phân công nhân sự giàu kinh nghiệm (4)."
+    },
+    {
+      "id": "q25",
+      "question": "Audit committee is responsible for:\n(1) Reporting their work to shareholders and directors\n(2) Reviewing the work of internal audit\n(3) Recommending the remuneration of management\n(4) Appointing external auditors",
+      "options": [
+        "(1) and (2)",
+        "(3) and (4)",
+        "(1), (2), and (3)",
+        "(2), (3) and (4)"
+      ],
+      "correctIndex": 0,
+      "explanation": "Audit committee chịu trách nhiệm báo cáo lên shareholders/directors (1) và review công việc của internal audit (2). Việc đề xuất thù lao ban điều hành thuộc remuneration committee; bổ nhiệm external auditors thuộc quyền của shareholders."
+    },
+    {
+      "id": "q26",
+      "question": "Why does the company need corporate governance?",
+      "options": [
+        "Corporate governance is the system by which companies are directed, therefore it is very important.",
+        "Corporate governance is important because it maximises profits of the entity.",
+        "Corporate governance is important because it ensures that all stakeholders with a relevant interest in a company's business are fully taken into account.",
+        "Corporate governance is the system by which companies are controlled to ensure limitation of mistakes."
+      ],
+      "correctIndex": 2,
+      "explanation": "Lý do cần corporate governance là để đảm bảo lợi ích của tất cả stakeholders có liên quan đều được tính đến một cách đầy đủ, không chỉ tối đa hóa lợi nhuận cho cổ đông."
+    },
+    {
+      "id": "q27",
+      "question": "In the context of agency theory, the demand for external audit primarily arises because:",
+      "options": [
+        "Management requires assistance in preparing accounts",
+        "Shareholders need independent verification of management's assertions",
+        "Governments require tax compliance",
+        "Auditors need to generate revenue"
+      ],
+      "correctIndex": 1,
+      "explanation": "Agency theory: có sự tách biệt giữa chủ sở hữu (principal) và người quản lý (agent). Shareholders cần kiểm toán độc lập để xác minh thông tin do management cung cấp, giải quyết vấn đề thông tin bất cân xứng."
+    },
+    {
+      "id": "q28",
+      "question": "GreenTech Co has engaged a practitioner to provide assurance on its annual sustainability report prepared using an internationally recognized framework. The practitioner concludes: \"Nothing has come to our attention that causes us to believe the report is not prepared, in all material respects, in accordance with the framework.\" Which type of engagement and conclusion is MOST appropriate?",
+      "options": [
+        "Reasonable assurance with positive conclusion",
+        "Limited assurance with negative conclusion",
+        "Reasonable assurance with negative conclusion",
+        "Limited assurance with positive conclusion"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kết luận 'Nothing has come to our attention...' là dạng negative conclusion (phủ định). Dạng kết luận này đặc trưng của limited assurance engagement, khác với reasonable assurance dùng kết luận dạng positive."
+    },
+    {
+      "id": "q29",
+      "question": "An auditor identifies a high risk of material misstatement in inventory due to estimation uncertainty and complex valuation methods. Which of the following planning decisions is MOST appropriate?",
+      "options": [
+        "Reduce testing due to complexity",
+        "Assign more experienced staff and consider using an expert",
+        "Rely solely on management representations",
+        "Postpone inventory testing until the final audit stage"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi có rủi ro cao ở khoản mục phức tạp như inventory với uncertainty cao, phản ứng phù hợp là tăng cường nguồn lực: phân công nhân sự giàu kinh nghiệm và cân nhắc sử dụng chuyên gia định giá."
+    },
+    {
+      "id": "q30",
+      "question": "Which of the following is the most relevant? The auditors' main responsibility is to:",
+      "options": [
+        "Require from the company's officers such information and explanations as they think necessary for the performance of their duties as auditors.",
+        "Report whether the information in the director's report is consistent with the financial statements and compliant with accounting framework.",
+        "Follow the discipline of the audit company to perform a suitable audit procedure.",
+        "Report whether the operation of client's internal control system is effective and efficient."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trách nhiệm chính của auditor là báo cáo về tính nhất quán của thông tin trong director's report với báo cáo tài chính và sự tuân thủ framework kế toán. Yêu cầu thông tin là quyền hạn; đánh giá hiệu quả internal control không phải trách nhiệm chính."
+    }
+  ]
+}
