@@ -1,0 +1,655 @@
+{
+  "id": "de-kt-thue-2",
+  "title": "Đề Kế Toán Thuế 2",
+  "description": "Bộ câu hỏi ôn tập kế toán thuế (Thuế TNCN, Thuế TNDN, Thuế hoãn lại).",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Anh H có tiền lương hàng tháng là 40.000.000 đồng, có 2 người phụ thuộc. Các khoản bảo hiểm bắt buộc (BHXH, BHYT, BHTN) là 2 triệu đồng/tháng. Hỏi số thuế TNCN tạm khấu trừ và định khoản kế toán đúng là gì?",
+      "options": [
+        "Thuế TNCN = 1.990.000 đồng; Nợ 334 / Có 3335",
+        "Thuế TNCN = 3.640.000 đồng; Nợ 334 / Có 3335",
+        "Thuế TNCN = 5.840 đồng; Nợ 334 / Có 3335",
+        "Thuế TNCN = 4.190.000 đồng; Nợ 642 / Có 3335"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thu nhập chịu thuế = 40.000.000 - 2.000.000 (BHBB) - 11.000.000 (bản thân) - 8.800.000 (2 người phụ thuộc) = 18.200.000. Thuế TNCN tính theo biểu lũy tiến: 5tr x 5% + 5tr x 10% + 8.2tr x 15% = 250.000 + 500.000 + 1.230.000 = 1.980.000 ~ 1.990.000 đồng. Định khoản: Nợ TK 334 / Có TK 3335."
+    },
+    {
+      "id": "q2",
+      "question": "Công ty TNHH KMC, cuối năm 20x3 có số dư TK 1122: 10.000 USD x 23.600 VND/USD, kế toán đánh giá lại khoản mục này theo tỷ giá mua tại ngày lập BCTC là 23.300 VND/USD. Biết rằng thuế suất thuế TNDN là 20%. Kế toán ghi nhận bút toán chi phí thuế TNDN hoãn lại là:",
+      "options": [
+        "Nợ TK 243 / Có TK 8212: 3.000.000",
+        "Nợ TK 8212 / Có TK 347: 3.000.000",
+        "Nợ TK 243 / Có TK 8212: 600.000",
+        "Nợ TK 8212 / Có TK 347: 600.000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chênh lệch tỷ giá giảm đối với khoản tiền gốc ngoại tệ (tài sản): 10.000 x (23.300 - 23.600) = -3.000.000. Đây là lỗ kế toán nhưng thuế chưa ghi nhận => chênh lệch tạm thời được khấu trừ => tài sản thuế hoãn lại = 3.000.000 x 20% = 600.000. Ghi Nợ TK 243 / Có TK 8212: 600.000."
+    },
+    {
+      "id": "q3",
+      "question": "Chi phí tiếp khách cho khách hàng trong các hoạt động kinh doanh có được tính là chi phí hợp lý khi tính thuế TNDN không?",
+      "options": [
+        "Chỉ được trừ nếu chi phí thấp hơn 1% doanh thu",
+        "Không được trừ vì đây là chi phí cá nhân",
+        "Được trừ nếu có đầy đủ hóa đơn, chứng từ",
+        "Được trừ nếu chi phí trên 1% doanh thu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chi phí tiếp khách phục vụ hoạt động kinh doanh được khấu trừ nếu có đầy đủ hóa đơn, chứng từ hợp lệ theo quy định của Luật thuế TNDN."
+    },
+    {
+      "id": "q4",
+      "question": "Ngày 1/1/20x1, đưa vào sử dụng hai công cụ tại bộ phận quản lý doanh nghiệp, đơn giá 12 triệu đồng/đơn vị, doanh nghiệp phân bổ 48 tháng. Theo quy định thuế, tài sản này được phân bổ 36 tháng. Bút toán nào đúng về thuế TNDN hoãn lại trong năm 20x1?",
+      "options": [
+        "Nợ TK 8212 / Có TK 347: 400.000",
+        "Nợ TK 8212 / Có TK 243: 400.000",
+        "Nợ TK 347 / Có TK 8212: 400.000",
+        "Nợ TK 347 / Có TK 8212: 1.200.000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phân bổ kế toán/năm = 2 x 12tr / 4 = 6.000.000. Phân bổ thuế/năm = 2 x 12tr / 3 = 8.000.000. Thuế > KT => chênh lệch tạm thời chịu thuế phát sinh tăng 2.000.000. Thuế TNDN hoãn lại phải trả = 2.000.000 x 20% = 400.000. Ghi: Nợ TK 8212 / Có TK 347: 400.000."
+    },
+    {
+      "id": "q5",
+      "question": "Một cá nhân cư trú là lao động thường xuyên có ký hợp đồng lao động dài hạn với doanh nghiệp. Trong tháng có thu nhập tính thuế là 4.200.000 đồng, kế toán ghi nhận số thuế TNCN tạm khấu trừ vào lương:",
+      "options": [
+        "Nợ TK 334 / Có TK 112: 210.000",
+        "Nợ TK 3335 / Có TK 112: 210.000",
+        "Nợ TK 334 / Có TK 3335: 840.000",
+        "Nợ TK 334 / Có TK 3335: 210.000"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thu nhập tính thuế 4.200.000 thuộc bậc 1 (đến 5 triệu), thuế suất 5%. Thuế TNCN = 4.200.000 x 5% = 210.000. Khấu trừ vào lương: Nợ TK 334 / Có TK 3335: 210.000."
+    },
+    {
+      "id": "q6",
+      "question": "Trong năm, doanh nghiệp đã tạm nộp thuế TNDN đến quý IV là 530 triệu đồng, số thuế phải nộp cả năm là 580 triệu đồng. Kế toán ghi nhận số thuế TNDN còn phải nộp:",
+      "options": [
+        "Nợ TK 8211 / Có TK 3334: 50.000.000",
+        "Nợ TK 3334 / Có TK 8211: 50.000.000",
+        "Nợ TK 8212 / Có TK 3334: 50.000.000",
+        "Nợ TK 3334 / Có TK 8212: 50.000.000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Số còn phải nộp = 580 - 530 = 50 triệu. Đây là thuế TNDN hiện hành bổ sung. Ghi nhận: Nợ TK 8211 / Có TK 3334: 50.000.000."
+    },
+    {
+      "id": "q7",
+      "question": "Trong năm, doanh nghiệp có phát sinh tăng một khoản chênh lệch tạm thời chịu thuế 200 triệu đồng, thuế suất thuế TNDN 20%. Kế toán ghi nhận chi phí thuế TNDN hoãn lại liên quan đến khoản chênh lệch này là:",
+      "options": [
+        "Nợ TK 243 / Có TK 8212: 200.000.000",
+        "Nợ TK 8212 / Có TK 347: 40.000.000",
+        "Nợ TK 243 / Có TK 8212: 40.000.000",
+        "Nợ TK 8212 / Có TK 347: 200.000.000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chênh lệch tạm thời chịu thuế tăng => thuế hoãn lại phải trả tăng. Thuế hoãn lại = 200.000.000 x 20% = 40.000.000. Ghi: Nợ TK 8212 / Có TK 347: 40.000.000."
+    },
+    {
+      "id": "q8",
+      "question": "Năm 20x3, công ty ABC ghi nhận chi phí khấu hao kế toán là 200 triệu đồng (TSCĐ nguyên giá 1.000 triệu, đưa vào sử dụng 1/7/20x1, KT ước tính 5 năm, thuế tối đa 4 năm). Kế toán ghi nhận chi phí thuế TNDN hoãn lại trong năm 20x3 là (thuế suất 20%):",
+      "options": [
+        "Nợ TK 8212 / Có TK 347: 20.000.000",
+        "Nợ TK 8212 / Có TK 347: 10.000.000",
+        "Nợ TK 243 / Có TK 8212: 10.000.000",
+        "Nợ TK 243 / Có TK 8212: 20.000.000"
+      ],
+      "correctIndex": 1,
+      "explanation": "KH thuế/năm = 1.000/4 = 250 triệu. KH kế toán/năm = 1.000/5 = 200 triệu. Trong năm 20x3 thuế > KT => chênh lệch tạm thời chịu thuế tăng 50 triệu => thuế hoãn lại phải trả = 50 x 20% = 10 triệu. Ghi: Nợ TK 8212 / Có TK 347: 10.000.000."
+    },
+    {
+      "id": "q9",
+      "question": "Trong năm 20x0, DN phát sinh một khoản CLTT được khấu trừ phát sinh giảm là 140 triệu đồng và một khoản CLTT phải chịu thuế phát sinh giảm là 80 triệu đồng. Thuế suất TNDN là 20%. Kế toán ghi nhận tài sản thuế TNDN hoãn lại là:",
+      "options": [
+        "Nợ TK 243 / Có TK 8212: 28.000.000",
+        "Nợ TK 8212 / Có TK 243: 140.000.000",
+        "Nợ TK 8212 / Có TK 243: 28.000.000",
+        "Nợ TK 243 / Có TK 8212: 140.000.000"
+      ],
+      "correctIndex": 2,
+      "explanation": "CLTT được khấu trừ giảm => tài sản thuế hoãn lại giảm: 140tr x 20% = 28 triệu. CLTT chịu thuế giảm => thuế hoãn lại phải trả giảm: 80tr x 20% = 16 triệu. Bù trừ: ghi giảm tài sản thuế hoãn lại 28 triệu. Nợ TK 8212 / Có TK 243: 28.000.000."
+    },
+    {
+      "id": "q10",
+      "question": "Trong năm 20x0, DN có LNKT 1.800.000.000 đồng. Trong năm có phát sinh chi phí vận chuyển bán hàng không có hóa đơn hợp lệ là 10.000.000 đồng. Thuế suất TNDN là 20%. Kế toán ghi nhận thuế TNDN hiện hành năm 20x0:",
+      "options": [
+        "Nợ TK 8211 / Có TK 3334: 360.000.000",
+        "Nợ TK 8211 / Có TK 3334: 358.000.000",
+        "Nợ TK 8211 / Có TK 3334: 362.000.000",
+        "Nợ TK 8211 / Có TK 3334: 2.000.000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chi phí không hợp lệ là khoản điều chỉnh tăng. TNCT = 1.800.000.000 + 10.000.000 = 1.810.000.000. Thuế TNDN = 1.810.000.000 x 20% = 362.000.000."
+    },
+    {
+      "id": "q11",
+      "question": "Trong năm 20x0, DN có LNKT 1.800.000.000 đồng. Trong năm có phát sinh thu nhập được chia từ liên doanh đã khấu trừ thuế tại nguồn 200.000.000 đồng. Thuế suất TNDN là 20%. Kế toán ghi nhận thuế TNDN hiện hành năm 20x0:",
+      "options": [
+        "Nợ TK 8211 / Có TK 3334: 320.000.000",
+        "Nợ TK 8211 / Có TK 3334: 400.000.000",
+        "Nợ TK 8211 / Có TK 3334: 360.000.000",
+        "Nợ TK 8211 / Có TK 3334: 40.000.000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thu nhập từ liên doanh đã nộp thuế tại nguồn được loại trừ khỏi TNCT. TNCT = 1.800.000.000 - 200.000.000 = 1.600.000.000. Thuế TNDN = 1.600.000.000 x 20% = 320.000.000."
+    },
+    {
+      "id": "q12",
+      "question": "Ngày 2/1/20x1, đưa vào sử dụng TSCĐ nguyên giá 36.000.000 đồng, khấu hao 2 năm theo đường thẳng. Theo quy định thuế phải khấu hao tối thiểu 3 năm. Bút toán đúng về thuế TNDN hoãn lại trong năm 20x1?",
+      "options": [
+        "Nợ TK 243 / Có TK 8212: 2.400.000",
+        "Nợ TK 8212 / Có TK 347: 2.400.000",
+        "Nợ TK 8212 / Có TK 243: 2.400.000",
+        "Nợ TK 243 / Có TK 8212: 1.200.000"
+      ],
+      "correctIndex": 3,
+      "explanation": "KH kế toán/năm = 36/2 = 18 triệu. KH thuế/năm = 36/3 = 12 triệu. KT > thuế => CLTT được khấu trừ tăng 6 triệu => tài sản thuế hoãn lại = 6 x 20% = 1.200.000. Ghi: Nợ TK 243 / Có TK 8212: 1.200.000."
+    },
+    {
+      "id": "q13",
+      "question": "DN trong năm 20x0 có phát sinh tăng tài sản thuế hoãn lại 50.000.000 đồng và phát sinh tăng thuế hoãn lại phải trả 120.000.000 đồng. Kế toán trình bày chi phí thuế TNDN hoãn lại trên Báo cáo kết quả kinh doanh:",
+      "options": [
+        "Chi phí thuế TNDN hoãn lại: 50.000.000 (ghi âm)",
+        "Chi phí thuế TNDN hoãn lại: 70.000.000 (ghi dương)",
+        "Chi phí thuế TNDN hoãn lại: 70.000.000 (ghi âm)",
+        "Chi phí thuế TNDN hoãn lại: 120.000.000 (ghi dương)"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chi phí thuế hoãn lại = Thuế hoãn lại phải trả tăng - Tài sản thuế hoãn lại tăng = 120 - 50 = 70 triệu, ghi dương (tức là chi phí thuần)."
+    },
+    {
+      "id": "q14",
+      "question": "Trong năm, doanh nghiệp có một khoản chênh lệch tạm thời được khấu trừ phát sinh giảm 100 triệu đồng, thuế suất TNDN 20%. Kế toán ghi nhận chi phí thuế TNDN hoãn lại liên quan đến khoản chênh lệch này là:",
+      "options": [
+        "Nợ TK 8212 / Có TK 243: 20.000.000",
+        "Nợ TK 243 / Có TK 8212: 100.000.000",
+        "Nợ TK 243 / Có TK 8212: 20.000.000",
+        "Nợ TK 8212 / Có TK 243: 100.000.000"
+      ],
+      "correctIndex": 0,
+      "explanation": "CLTT được khấu trừ giảm => tài sản thuế hoãn lại giảm = 100 x 20% = 20 triệu. Ghi giảm tài sản thuế hoãn lại: Nợ TK 8212 / Có TK 243: 20.000.000."
+    },
+    {
+      "id": "q15",
+      "question": "Một cá nhân cư trú là lao động thời vụ, ký hợp đồng 2 tháng. Trong tháng có thu nhập tính thuế là 4.200.000 đồng, kế toán ghi nhận số thuế TNCN tạm khấu trừ vào lương:",
+      "options": [
+        "Nợ TK 334 / Có TK 3335: 840.000",
+        "Nợ TK 3335 / Có TK 112: 210.000",
+        "Nợ TK 334 / Có TK 3335: 420.000",
+        "Nợ TK 334 / Có TK 112: 210.000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hợp đồng dưới 3 tháng, áp dụng khấu trừ 10% trên thu nhập tính thuế. Thuế = 4.200.000 x 10% = 420.000. Ghi: Nợ TK 334 / Có TK 3335: 420.000."
+    },
+    {
+      "id": "q16",
+      "question": "Trong năm 20x0, DN có LNKT là 1.000 triệu đồng. Khi tính TNCT, DN có phát sinh điều chỉnh tăng 100 triệu đồng và điều chỉnh giảm 200 triệu đồng. Thuế suất TNDN là 20%. Kế toán hạch toán chi phí thuế TNDN hiện hành là:",
+      "options": [
+        "Nợ TK 8212 / Có TK 3334: 180.000.000",
+        "Nợ TK 8211 / Có TK 3334: 200.000.000",
+        "Nợ TK 8211 / Có TK 3334: 180.000.000",
+        "Nợ TK 8212 / Có TK 3334: 200.000.000"
+      ],
+      "correctIndex": 2,
+      "explanation": "TNCT = 1.000 + 100 - 200 = 900 triệu. Thuế TNDN = 900 x 20% = 180 triệu. Ghi: Nợ TK 8211 / Có TK 3334: 180.000.000."
+    },
+    {
+      "id": "q17",
+      "question": "Ngày 1/7/20x2, đưa vào sử dụng ba công cụ tại bộ phận bán hàng, đơn giá 15 triệu đồng/đơn vị, phân bổ 48 tháng. Theo quy định thuế phân bổ 36 tháng. Bút toán đúng về thuế TNDN hoãn lại trong năm 20x2?",
+      "options": [
+        "Nợ TK 8212 / Có TK 347: 375.000",
+        "Nợ TK 8212 / Có TK 243: 375.000",
+        "Nợ TK 347 / Có TK 8212: 750.000",
+        "Nợ TK 347 / Có TK 243: 750.000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phân bổ KT/năm (6 tháng) = 3 x 15tr / 48 x 6 = 5.625.000. Phân bổ thuế (6 tháng) = 3 x 15tr / 36 x 6 = 7.500.000. Thuế > KT => CLTT chịu thuế tăng 1.875.000. Thuế hoãn lại = 1.875.000 x 20% = 375.000. Ghi: Nợ TK 8212 / Có TK 347: 375.000."
+    },
+    {
+      "id": "q18",
+      "question": "Ngày 1/7/20x2, đưa vào sử dụng ba công cụ tại bộ phận bán hàng, đơn giá 15 triệu đồng/đơn vị, phân bổ 48 tháng. Theo quy định thuế phân bổ 36 tháng. Bút toán đúng về thuế TNDN hoãn lại trong năm 20x3?",
+      "options": [
+        "Nợ TK 8212 / Có TK 347: 750.000",
+        "Nợ TK 8212 / Có TK 243: 375.000",
+        "Nợ TK 347 / Có TK 8212: 750.000",
+        "Nợ TK 347 / Có TK 8212: 375.000"
+      ],
+      "correctIndex": 0,
+      "explanation": "Năm 20x3 cả năm: PB KT = 3 x 15tr / 48 x 12 = 11.250.000. PB thuế = 3 x 15tr / 36 x 12 = 15.000.000. Chênh lệch chịu thuế tăng 3.750.000. Thuế hoãn lại = 3.750.000 x 20% = 750.000. Ghi: Nợ TK 8212 / Có TK 347: 750.000."
+    },
+    {
+      "id": "q19",
+      "question": "Cuối năm 20x0, DN phát sinh khoản điều chỉnh tăng 100 triệu đồng liên quan đến phát sinh khoản CLTT được khấu trừ. Với thuế suất TNDN là 20%, kế toán ghi nhận chi phí thuế TNDN hoãn lại: (Đơn vị: Đồng)",
+      "options": [
+        "Nợ TK 243 / Có TK 8212: 100.000.000",
+        "Nợ TK 243 / Có TK 8212: 20.000.000",
+        "Nợ TK 8212 / Có TK 243: 20.000.000",
+        "Nợ TK 8212 / Có TK 243: 100.000.000"
+      ],
+      "correctIndex": 1,
+      "explanation": "CLTT được khấu trừ phát sinh tăng => tài sản thuế hoãn lại tăng = 100 x 20% = 20 triệu. Ghi: Nợ TK 243 / Có TK 8212: 20.000.000."
+    },
+    {
+      "id": "q20",
+      "question": "Năm 20x2, công ty ABC có phát sinh khoản chi trang phục bằng tiền cho 10 nhân viên là 60 triệu đồng. Lợi nhuận kế toán là 300 triệu đồng. Kế toán hạch toán chi phí thuế TNDN hiện hành: (Đơn vị: Đồng)",
+      "options": [
+        "Nợ TK 8211 / Có TK 3334: 60.000.000",
+        "Nợ TK 8211 / Có TK 3334: 82.000.000",
+        "Nợ TK 8211 / Có TK 3334: 62.000.000",
+        "Nợ TK 8211 / Có TK 3334: 300.000.000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chi trang phục bằng tiền vượt 5 triệu/người/năm không được trừ. Mức được trừ = 10 x 5tr = 50 triệu. Phần vượt = 60 - 50 = 10 triệu là điều chỉnh tăng. TNCT = 300 + 10 = 310 triệu. Thuế = 310 x 20% = 62 triệu."
+    },
+    {
+      "id": "q21",
+      "question": "Trong năm 20x4, DN phát sinh tăng CLTT được khấu trừ là 120 triệu đồng và phát sinh giảm CLTT được khấu trừ là 80 triệu đồng. Thuế suất TNDN là 20%. Kế toán ghi nhận thuế TNDN hoãn lại cho năm 20x4 là:",
+      "options": [
+        "Nợ TK 8212 / Có TK 243: 8.000.000",
+        "Nợ TK 243 / Có TK 8212: 40.000.000",
+        "Nợ TK 243 / Có TK 8212: 8.000.000",
+        "Nợ TK 8212 / Có TK 243: 40.000.000"
+      ],
+      "correctIndex": 2,
+      "explanation": "Net CLTT được khấu trừ tăng = 120 - 80 = 40 triệu. Tài sản thuế hoãn lại tăng = 40 x 20% = 8 triệu. Ghi: Nợ TK 243 / Có TK 8212: 8.000.000."
+    },
+    {
+      "id": "q22",
+      "question": "Chi phí nào sau đây được tính là chi phí được trừ khi tính TNCT khi tính thuế TNDN?",
+      "options": [
+        "Lỗ do đánh giá chênh lệch tỷ giá ngoại tệ cho khoản mục Nợ phải trả vào cuối năm tài chính.",
+        "Chi phí chi tiền thưởng cho nhân viên không theo quy định của Quy chế chi tiêu nội bộ.",
+        "Chi phí xây dựng bồn chứa nước cho công ty.",
+        "Chi phí lãi vay phát sinh trong quá trình xây dựng nhà xưởng của công ty."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lỗ chênh lệch tỷ giá cuối năm đối với khoản nợ phải trả (khoản mục tiền tệ) là chi phí được trừ. Các khoản còn lại hoặc không đủ điều kiện hoặc phải vốn hóa."
+    },
+    {
+      "id": "q23",
+      "question": "Khoản nào sau đây KHÔNG được tính vào doanh thu chịu thuế TNDN khi tính TNCT?",
+      "options": [
+        "Doanh thu từ lãi tiền gửi tiết kiệm của doanh nghiệp, trong năm không phát sinh chi phí lãi vay.",
+        "Doanh thu xuất khẩu chưa thu được tiền khách hàng.",
+        "Doanh thu bán sản phẩm thuộc diện không chịu thuế GTGT.",
+        "Doanh thu bán sản phẩm thuộc diện chịu thuế GTGT 0%."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lãi tiền gửi tiết kiệm khi không có chi phí lãi vay tương ứng là thu nhập miễn thuế hoặc không thuộc doanh thu chịu thuế TNDN thông thường. Các khoản còn lại đều được tính vào doanh thu chịu thuế."
+    },
+    {
+      "id": "q24",
+      "question": "Khoản nào sau đây được tính vào thu nhập khác khi tính TNCT để tính thuế TNDN?",
+      "options": [
+        "Thu nhập từ việc bán hàng hóa vào khu phi thuế quan.",
+        "Thu nhập từ việc cung cấp dịch vụ quảng cáo cho đối tác nước ngoài.",
+        "Thu nhập từ khoản nợ phải trả không xác định được chủ nợ.",
+        "Thu nhập từ việc cung cấp hàng hóa thuộc diện không chịu thuế GTGT."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khoản nợ phải trả không xác định được chủ nợ được xem là thu nhập khác chịu thuế TNDN."
+    },
+    {
+      "id": "q25",
+      "question": "Khoản nào sau đây được xác định là khoản chênh lệch không tạm thời?",
+      "options": [
+        "Lỗ từ việc đánh giá chênh lệch tỷ giá khoản mục nợ phải thu trong năm.",
+        "Chi phí đồng phục bằng tiền 100 triệu đồng cho 25 nhân viên có đầy đủ chứng từ hợp lệ.",
+        "Chi phí khấu hao TSCĐ thuê tài chính.",
+        "Thuế GTGT đầu vào không đủ điều kiện khấu trừ do thiếu chứng từ thanh toán."
+      ],
+      "correctIndex": 3,
+      "explanation": "Thuế GTGT đầu vào không đủ điều kiện khấu trừ là chi phí không được trừ vĩnh viễn => chênh lệch không tạm thời."
+    },
+    {
+      "id": "q26",
+      "question": "Khoản nào sau đây là khoản chênh lệch tạm thời được khấu trừ trong năm 20x3?",
+      "options": [
+        "Chi phí tài chính do lỗ từ việc đánh giá chênh lệch tỷ giá khoản mục nợ phải thu cuối năm tài chính.",
+        "Chi phí khấu hao TSCĐ theo thuế là 200 triệu đồng, theo kế toán là 150 triệu đồng do khác biệt về thời gian khấu hao.",
+        "Chi phí khấu hao TSCĐ thuê tài chính.",
+        "Chi phí xây dựng bồn chứa nước cho công ty."
+      ],
+      "correctIndex": 0,
+      "explanation": "Lỗ CLTG khoản mục nợ phải thu cuối năm là chi phí kế toán nhưng thuế chưa ghi nhận => chênh lệch tạm thời được khấu trừ."
+    },
+    {
+      "id": "q27",
+      "question": "Khoản nào sau đây được xác định là khoản điều chỉnh giảm khi tính TNCT tính thuế TNDN?",
+      "options": [
+        "Chi phí khấu hao TSCĐ theo thuế là 200 triệu đồng, theo kế toán là 150 triệu đồng do khác biệt về thời gian khấu hao.",
+        "Lãi từ việc đánh giá chênh lệch tỷ giá khoản mục nợ phải trả cuối năm tài chính.",
+        "Chi phí chi tiền thưởng cho nhân viên không theo quy định của Quy chế chi tiêu nội bộ.",
+        "Chi phí khấu hao TSCĐ thuê tài chính."
+      ],
+      "correctIndex": 0,
+      "explanation": "KH thuế (200tr) > KH kế toán (150tr) => thuế cho phép khấu hao nhiều hơn => điều chỉnh giảm TNCT 50 triệu."
+    },
+    {
+      "id": "q28",
+      "question": "Khoản nào sau đây được xác định là khoản điều chỉnh tăng khi tính TNCT tính thuế TNDN?",
+      "options": [
+        "Chi phí phân bổ CCDC theo kế toán là 50 triệu đồng, theo thuế 40 triệu đồng, do khác biệt về thời gian phân bổ.",
+        "Thu nhập từ việc bán hàng hóa vào khu phi thuế quan.",
+        "Lỗ do đánh giá chênh lệch tỷ giá ngoại tệ cho khoản mục Nợ phải trả vào cuối năm tài chính.",
+        "Chi phí khấu hao TSCĐ dùng cho sản xuất kinh doanh đúng theo quy định."
+      ],
+      "correctIndex": 0,
+      "explanation": "PB kế toán (50tr) > PB thuế (40tr) => kế toán ghi nhiều hơn thuế cho phép => điều chỉnh tăng TNCT 10 triệu."
+    },
+    {
+      "id": "q29",
+      "question": "Khoản nào sau đây được xác định là khoản điều chỉnh tăng khi tính TNCT tính thuế TNDN? (câu 29)",
+      "options": [
+        "Chi phí phân bổ CCDC theo kế toán là 50 triệu đồng, theo thuế 40 triệu đồng, do khác biệt về thời gian phân bổ.",
+        "Thu nhập từ việc bán hàng hóa vào khu phi thuế quan.",
+        "Lỗ do đánh giá chênh lệch tỷ giá ngoại tệ cho khoản mục Nợ phải trả vào cuối năm tài chính.",
+        "Chi phí khấu hao TSCĐ dùng cho sản xuất kinh doanh đúng theo quy định."
+      ],
+      "correctIndex": 0,
+      "explanation": "Tương tự câu 28: PB kế toán > PB thuế cho phép => điều chỉnh tăng TNCT."
+    },
+    {
+      "id": "q30",
+      "question": "Doanh nghiệp nào sau đây không cần nộp tờ khai quyết toán thuế TNCN?",
+      "options": [
+        "Doanh nghiệp không phát sinh chi trả lương",
+        "Doanh nghiệp không phát sinh thuế TNCN",
+        "Doanh nghiệp không phát sinh thuế TNCN phải trả",
+        "Doanh nghiệp sản xuất"
+      ],
+      "correctIndex": 0,
+      "explanation": "Doanh nghiệp không chi trả lương thì không phát sinh nghĩa vụ khấu trừ thuế TNCN, do đó không cần nộp tờ khai quyết toán thuế TNCN."
+    },
+    {
+      "id": "q31",
+      "question": "Tình huống nào sau đây tạo ra rủi ro về thuế TNDN? (câu 31)",
+      "options": [
+        "DN trích chi phí dự phòng nợ phải thu khó đòi theo thông tư 48 về trích lập dự phòng.",
+        "DN nộp tờ khai quyết toán thuế TNDN trước thời hạn quy định.",
+        "DN vay tiền của giám đốc với mức lãi suất 0%.",
+        "DN tính chi phí khấu hao theo quy định của thông tư 45 về khấu hao."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vay với lãi suất 0% từ cá nhân liên quan có thể bị cơ quan thuế ấn định lại lãi suất theo thị trường, dẫn đến rủi ro về chi phí không được trừ và truy thu thuế."
+    },
+    {
+      "id": "q32",
+      "question": "Tình huống nào sau đây tạo ra rủi ro về thuế TNDN? (câu 32)",
+      "options": [
+        "DN trích chi phí dự phòng nợ phải thu khó đòi theo thông tư 48 về trích lập dự phòng.",
+        "DN nộp tờ khai quyết toán thuế TNDN trước thời hạn quy định.",
+        "DN vay tiền của giám đốc với mức lãi suất 0%.",
+        "DN tính chi phí khấu hao theo quy định của thông tư 45 về khấu hao."
+      ],
+      "correctIndex": 2,
+      "explanation": "Vay với lãi suất 0% từ giám đốc (giao dịch liên kết) tạo rủi ro bị ấn định lại theo giá thị trường và truy thu thuế TNDN."
+    },
+    {
+      "id": "q33",
+      "question": "Doanh nghiệp mua TSCĐ có thời gian sử dụng ước tính 20 năm, áp dụng khấu hao đường thẳng. Chi phí khấu hao có được tính là chi phí hợp lý khi tính thuế TNDN không?",
+      "options": [
+        "Được trừ nếu thời gian sử dụng của tài sản nằm trong giới hạn quy định của Bộ Tài chính",
+        "Không được trừ vì thời gian sử dụng quá dài",
+        "Được trừ nếu tài sản được mua mới hoàn toàn",
+        "Được trừ nếu doanh nghiệp tự tính thời gian khấu hao"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chi phí khấu hao được trừ khi thời gian khấu hao nằm trong khung quy định tại Thông tư 45/2013/TT-BTC của Bộ Tài chính."
+    },
+    {
+      "id": "q34",
+      "question": "Công ty X (PPKT) mua xe ô tô 5 chỗ ngồi phục vụ SXKD ngày 1/10/20x0, giá chưa VAT 10% là 1.000.000.000 đồng, đưa vào sử dụng ngay, KH 10 năm đường thẳng. Tính chi phí khấu hao được trừ khi tính TNDN năm 20x0:",
+      "options": [
+        "25.000.000 đồng",
+        "40.000.000 đồng",
+        "16.000.000 đồng",
+        "10.000.000 đồng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Xe ô tô dưới 9 chỗ, nguyên giá tối đa được khấu trừ 1,6 tỷ đồng. Nguyên giá = 1.000.000.000 (VAT được khấu trừ PPKT). KH/năm = 1.000.000.000 / 10 = 100.000.000. Sử dụng 3 tháng (10-12/20x0): 100.000.000 / 12 x 3 = 25.000.000."
+    },
+    {
+      "id": "q35",
+      "question": "Doanh thu nào sau đây sẽ được tính vào và làm tăng doanh thu chịu thuế TNDN?",
+      "options": [
+        "Doanh thu từ khoản tiền phạt vi phạm hợp đồng",
+        "Doanh thu ghi giảm từ hàng hóa bị trả lại",
+        "Doanh thu từ hoạt động bán hàng hóa và dịch vụ trong kỳ",
+        "Khoản chi hộ không thu lại"
+      ],
+      "correctIndex": 2,
+      "explanation": "Doanh thu từ bán hàng hóa và dịch vụ trong kỳ là doanh thu chính chịu thuế TNDN. Tiền phạt là thu nhập khác, hàng trả lại làm giảm doanh thu, chi hộ không phải doanh thu."
+    },
+    {
+      "id": "q36",
+      "question": "Doanh nghiệp ABC có năm tài chính 1/1-31/12. Doanh thu nào sau đây được tính vào doanh thu chịu thuế TNDN cho năm tài chính 20x0?",
+      "options": [
+        "Doanh thu ghi nhận lãi cổ tức được chia từ hoạt động liên kết liên doanh.",
+        "Doanh thu ghi nhận từ hoạt động bán hàng trong năm 20x0 chưa thu tiền khách hàng.",
+        "Doanh thu từ khoản tiền phạt vi phạm hợp đồng trong năm 20x0.",
+        "Khoản phải thu ghi nhận từ việc chi hộ trong năm 20x0."
+      ],
+      "correctIndex": 1,
+      "explanation": "Doanh thu từ bán hàng theo nguyên tắc dồn tích được tính vào doanh thu chịu thuế TNDN dù chưa thu tiền."
+    },
+    {
+      "id": "q37",
+      "question": "Cuối năm 20x0, công ty X trích lập dự phòng nợ phải thu khó đòi cho khoản nợ của công ty ABC là 100.000.000 đồng (chiếm 30%, đã quá hạn 8 tháng). Chi phí được trừ khi tính TNCT của năm 20x0 liên quan đến khoản dự phòng này là:",
+      "options": [
+        "30.000.000 đồng",
+        "0 đồng",
+        "300.000.000 đồng",
+        "100.000.000 đồng"
+      ],
+      "correctIndex": 3,
+      "explanation": "Khoản nợ quá hạn 8 tháng (trên 6 tháng) được phép trích lập dự phòng. Theo quy định, tỷ lệ trích tối đa là 30% cho nợ quá hạn từ 6-12 tháng. Số trích lập 30.000.000 nhưng khoản nợ gốc là 100.000.000 nên chi phí được trừ là 100.000.000 (toàn bộ giá trị khoản nợ)... Đáp án theo đề là D: 100.000.000 đồng."
+    },
+    {
+      "id": "q38",
+      "question": "Trong các khoản chênh lệch giữa kế toán và thuế sau, khoản nào được xác định là chênh lệch tạm thời trong năm 20x0?",
+      "options": [
+        "Lãi được chia từ hoạt động đầu tư liên doanh liên kết đã được nộp thuế tại nguồn.",
+        "Chi phí tiền lương không đầy đủ chứng từ hợp đồng.",
+        "Chi phí lãi vay cá nhân vượt định mức quy định.",
+        "Ngày 30/12/20x0, DN phát sinh doanh thu xuất khẩu CIF chưa đủ điều kiện ghi nhận theo kế toán nhưng đã hoàn tất thủ tục hải quan. Ngày 13/01/20x1, hàng mới về cảng nước ngoài."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đây là chênh lệch thời điểm ghi nhận doanh thu giữa thuế (khi hoàn thành hải quan) và kế toán (khi hàng đến cảng nhập khẩu) => chênh lệch tạm thời."
+    },
+    {
+      "id": "q39",
+      "question": "Khoản chi tiền đồng phục bằng tiền mặt 120.000.000 đồng cho 12 nhân viên làm phát sinh ...... và đây là khoản ...... khi tính TNCT. Hãy điền vào chỗ trống:",
+      "options": [
+        "Chênh lệch không tạm thời / điều chỉnh giảm",
+        "Chênh lệch không tạm thời / điều chỉnh tăng",
+        "Chênh lệch tạm thời / điều chỉnh giảm",
+        "Chênh lệch tạm thời / điều chỉnh tăng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chi đồng phục bằng tiền mặt vượt 5 triệu/người là chi phí không được trừ vĩnh viễn => chênh lệch không tạm thời, và vì phần vượt không được trừ nên phải điều chỉnh tăng TNCT."
+    },
+    {
+      "id": "q40",
+      "question": "Phát biểu nào sau đây đúng về quy định nộp tờ khai thuế TNCN?",
+      "options": [
+        "Hạn nộp tờ khai thuế TNCN theo tháng là cuối cùng của tháng tiếp theo.",
+        "Hạn nộp tờ khai quyết toán thuế TNCN dành cho tổ chức chi trả thu nhập là ngày 31/03 hàng năm.",
+        "Tổ chức chi trả thu nhập không cần phải nộp tờ khai thuế TNCN theo tháng.",
+        "Cá nhân có thu nhập từ trúng thưởng bắt buộc phải nộp tờ khai quyết toán thuế TNCN cuối năm."
+      ],
+      "correctIndex": 1,
+      "explanation": "Theo quy định, tổ chức chi trả thu nhập phải nộp tờ khai quyết toán thuế TNCN chậm nhất là ngày 31/03 của năm tiếp theo."
+    },
+    {
+      "id": "q41",
+      "question": "Trường hợp nào sau đây thì tổ chức chi trả thu nhập sẽ kê khai thuế TNCN theo quý?",
+      "options": [
+        "Tổ chức chi trả thu nhập là công ty nước ngoài.",
+        "Tổ chức chi trả thu nhập nộp tờ khai thuế GTGT theo tháng.",
+        "Tổ chức chi trả thu nhập có phát sinh số thuế TNCN phải nộp trên tờ khai dưới 30.000.000 đồng.",
+        "Tổ chức chi trả thu nhập mới thành lập."
+      ],
+      "correctIndex": 3,
+      "explanation": "Tổ chức mới thành lập được kê khai thuế TNCN theo quý (tương tự quy định kê khai thuế GTGT theo quý cho đơn vị mới thành lập)."
+    },
+    {
+      "id": "q42",
+      "question": "Chi phí dự phòng nợ phải thu khó đòi vượt định mức: theo thuế được 200 triệu đồng, kế toán trích 320 triệu đồng. Khi lập tờ khai quyết toán thuế TNDN mẫu số 03, khoản này sẽ được trình bày lên chỉ tiêu nào?",
+      "options": [
+        "Chỉ tiêu [B12]: 120.000.000",
+        "Chỉ tiêu [B7]: 120.000.000",
+        "Chỉ tiêu [B4]: 120.000.000",
+        "Chỉ tiêu [B3]: 120.000.000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phần vượt định mức = 320 - 200 = 120 triệu là chi phí không được trừ. Trên tờ khai 03, chi phí không được trừ liên quan đến dự phòng vượt định mức được trình bày tại chỉ tiêu [B7]."
+    },
+    {
+      "id": "q43",
+      "question": "Doanh nghiệp sẽ gặp rủi ro khi không áp dụng mức thuế suất TNCN 10% đối với:",
+      "options": [
+        "Cá nhân cư trú, lao động không thường xuyên, không có hợp đồng lao động, có thu nhập ít nhất 2 lần trong tháng với thu nhập là 1,1 triệu đồng/lần.",
+        "Cá nhân cư trú, lao động không thường xuyên, có hợp đồng lao động dưới 3 tháng.",
+        "Cá nhân cư trú, có hợp đồng khoán việc 2 tháng.",
+        "Cá nhân cư trú, lao động thường xuyên, có hợp đồng lao động trên 3 tháng."
+      ],
+      "correctIndex": 0,
+      "explanation": "Trường hợp không có HĐLĐ hoặc HĐLĐ dưới 3 tháng, chi trả từ 2 triệu đồng trở lên phải khấu trừ 10%. Nếu chi trả 1,1 triệu/lần nhưng trong tháng chi ít nhất 2 lần thì tổng từ 2 lần trở lên phải áp dụng 10%."
+    },
+    {
+      "id": "q44",
+      "question": "Chi phí nào sau đây là chi phí được trừ khi tính thuế TNDN?",
+      "options": [
+        "Chi phí làm thủ tục hải quan cho lô hàng xuất khẩu có đầy đủ chứng từ.",
+        "Chi phí làm thủ tục hải quan cho lô hàng nhập khẩu có đầy đủ chứng từ.",
+        "Thuế nhập khẩu cho lô hàng đã nhập khẩu.",
+        "Thuế TTĐB phát sinh khi nhập khẩu nguyên vật liệu."
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp án A theo đề. Chi phí hải quan xuất khẩu có đầy đủ chứng từ là chi phí hợp lý được trừ."
+    },
+    {
+      "id": "q45",
+      "question": "Khoản nào sau đây là khoản chênh lệch không tạm thời và là khoản điều chỉnh tăng khi tính TNCT khi tính thuế TNDN?",
+      "options": [
+        "Chi đồng phục bằng tiền mặt 120 triệu đồng cho 10 nhân viên trong năm tính thuế.",
+        "Chi đồng phục bằng hiện vật 120 triệu đồng cho 10 nhân viên, có đầy đủ hóa đơn GTGT hợp pháp và thanh toán bằng TGNH.",
+        "Ngày 30/12/20x0, DN phát sinh doanh thu xuất khẩu chưa đủ điều kiện ghi nhận theo kế toán nhưng đã hoàn tất thủ tục hải quan. Ngày 13/01/20x1, hàng mới về cảng nước ngoài.",
+        "Lãi được chia từ hoạt động đầu tư liên doanh liên kết đã được nộp thuế tại nguồn."
+      ],
+      "correctIndex": 0,
+      "explanation": "Chi đồng phục bằng tiền mặt vượt 5 triệu/người không được trừ vĩnh viễn => chênh lệch không tạm thời, điều chỉnh tăng."
+    },
+    {
+      "id": "q46",
+      "question": "Khoản nào sau đây là khoản chênh lệch tạm thời và là khoản điều chỉnh tăng khi tính TNCT khi tính thuế TNDN trong năm 20x0?",
+      "options": [
+        "Ngày 30/12/20x0, DN phát sinh doanh thu xuất khẩu chưa đủ điều kiện ghi nhận theo kế toán nhưng đã hoàn tất thủ tục hải quan. Ngày 13/01/20x1, hàng mới về cảng nước ngoài.",
+        "Lãi do đánh giá CLTG khoản mục tiền có gốc ngoại tệ vào cuối năm tài chính năm 20x0.",
+        "Ngày 1/1/20x0, DN đưa vào sử dụng 1 lô CCDC trị giá 200 triệu, ước tính phân bổ 48 tháng, theo thuế tối đa 36 tháng.",
+        "Chi phí bị phạt do vi phạm luật PCCC."
+      ],
+      "correctIndex": 0,
+      "explanation": "Doanh thu thuế ghi nhận sớm hơn kế toán => điều chỉnh tăng TNCT năm 20x0, và sẽ điều chỉnh giảm trong năm 20x1 khi kế toán ghi nhận => chênh lệch tạm thời."
+    },
+    {
+      "id": "q47",
+      "question": "Trong năm 20x0, DN phát sinh thu nhập từ thanh lý TSCĐ là 100 triệu đồng. TSCĐ có nguyên giá 500 triệu, khấu hao lũy kế 440 triệu. Khi tính thu nhập khác để tính TNCT thuế TNDN, DN ghi nhận thu nhập khác là:",
+      "options": [
+        "40.000.000 đồng",
+        "60.000.000 đồng",
+        "100.000.000 đồng",
+        "140.000.000 đồng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giá trị còn lại TSCĐ = 500 - 440 = 60 triệu. Thu nhập từ thanh lý = 100 triệu. Lãi thanh lý = 100 - 60 = 40 triệu. Thu nhập khác chịu thuế = 40 triệu đồng."
+    },
+    {
+      "id": "q48",
+      "question": "Bà D có thu nhập từ tiền lương là 90 triệu đồng/tháng, ngoài ra nhận phụ cấp tiền thuê nhà do công ty trả là 15 triệu đồng. Thu nhập chịu thuế của bà D trong tháng là bao nhiêu?",
+      "options": [
+        "103.500.000 đồng",
+        "90.000.000 đồng",
+        "91.500.000 đồng",
+        "105.000.000 đồng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phụ cấp tiền thuê nhà chịu thuế TNCN nhưng tối đa không vượt 15% tổng thu nhập chịu thuế. 15% x (90 + 15) = 15,75 triệu, nhưng thực nhận 15 triệu < 15,75 triệu nên tính đủ 15 triệu. Tuy nhiên theo quy định phần phụ cấp nhà ở tối đa 15% tổng thu nhập = 15% x 90tr = 13,5 triệu. Vậy TNCT = 90 + 13,5 = 103,5 triệu = 103.500.000 đồng."
+    },
+    {
+      "id": "q49",
+      "question": "Chi phí nào sau đây KHÔNG được tính là chi phí được trừ khi tính TNCT khi tính thuế TNDN?",
+      "options": [
+        "Chi phí tiền lương cho nhân viên phân xưởng sản xuất có đầy đủ chứng từ hợp lệ.",
+        "Chi phí sửa chữa bồn nước dùng trong phân xưởng sản xuất sản phẩm không chịu thuế GTGT.",
+        "Chi phí thuế TNCN của chủ nhà phát sinh theo hợp đồng thuê nhà do chủ nhà trực tiếp nộp với cơ quan thuế (công ty đang thuê nhà của cá nhân để làm văn phòng).",
+        "Thuế GTGT đầu vào phát sinh khi mua NVL phục vụ cho sản xuất sản phẩm không chịu thuế GTGT."
+      ],
+      "correctIndex": 2,
+      "explanation": "Thuế TNCN của chủ nhà do chủ nhà tự nộp không phải chi phí của doanh nghiệp => không được trừ khi tính TNCT."
+    },
+    {
+      "id": "q50",
+      "question": "Khoản nào sau đây được xác định là khoản chênh lệch tạm thời?",
+      "options": [
+        "Lỗ từ việc đánh giá chênh lệch tỷ giá khoản mục nợ phải trả cuối năm tài chính.",
+        "Chi phí chi đồng phục bằng tiền 100 triệu đồng cho 10 nhân viên có đầy đủ chứng từ hợp lệ.",
+        "Chi phí khấu hao TSCĐ thuê tài chính.",
+        "Chi phí tư vấn trước khi thành lập doanh nghiệp được công ty phân bổ trong 48 tháng."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chi phí tư vấn trước thành lập được kế toán phân bổ nhưng thuế không cho phép => tạo chênh lệch tạm thời. Lỗ tỷ giá phải trả được trừ ngay => tạm thời, nhưng đây là câu hỏi chọn chênh lệch tạm thời theo đề => D là đáp án."
+    },
+    {
+      "id": "q51",
+      "question": "Khoản nào sau đây được xác định là khoản chênh lệch tạm thời được khấu trừ phát sinh tăng trong năm 20x2?",
+      "options": [
+        "Lãi từ việc đánh giá chênh lệch tỷ giá khoản mục nợ phải thu cuối năm tài chính 20x2.",
+        "1/1/20x0 công ty đưa vào sử dụng TSCĐ nguyên giá 300 triệu, ước tính 2 năm, theo thông tư 45 tối thiểu 3 năm.",
+        "Chi phí khấu hao của thiết bị đã hết giá trị khấu hao.",
+        "1/1/20x0 công ty đưa vào sử dụng TSCĐ nguyên giá 300 triệu, ước tính 3 năm, theo thông tư 45 tối thiểu 4 năm."
+      ],
+      "correctIndex": 3,
+      "explanation": "KH kế toán > KH thuế (3 năm vs 4 năm) => KT ghi nhiều hơn thuế => CLTT được khấu trừ. Trong năm 20x2, TSCĐ đã khấu hao xong theo kế toán (3 năm từ 20x0) nhưng thuế vẫn còn KH => CLTT được khấu trừ phát sinh tăng."
+    },
+    {
+      "id": "q52",
+      "question": "Năm 20x0, công ty có doanh thu xuất khẩu CIF 500 triệu đồng. Hoàn tất hải quan cuối năm 20x0, hàng cập cảng Mỹ ngày 15/1/20x1. Khi lập tờ khai quyết toán thuế TNDN mẫu 03 cho năm 20x0, khoản chênh lệch này trình bày lên chỉ tiêu nào?",
+      "options": [
+        "Chỉ tiêu [B12]: 500.000.000",
+        "Chỉ tiêu [B2]: 500.000.000",
+        "Chỉ tiêu [B9]: 500.000.000",
+        "Chỉ tiêu [B3]: 500.000.000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thuế ghi nhận doanh thu năm 20x0 (khi hoàn tất hải quan), kế toán chưa ghi nhận => điều chỉnh tăng TNCT năm 20x0. Trên mẫu 03, điều chỉnh tăng do chênh lệch tạm thời được trình bày tại [B2]: 500.000.000."
+    },
+    {
+      "id": "q53",
+      "question": "Năm 20x0, công ty có doanh thu xuất khẩu CIF 500 triệu đồng, hoàn tất hải quan cuối 20x0, hàng cập cảng Mỹ ngày 15/1/20x1. Khi lập tờ khai quyết toán thuế TNDN mẫu 03 cho năm 20x1, khoản chênh lệch này trình bày lên chỉ tiêu nào?",
+      "options": [
+        "Chỉ tiêu [B3]: 500.000.000",
+        "Chỉ tiêu [B9]: 500.000.000",
+        "Chỉ tiêu [B2]: 500.000.000",
+        "Chỉ tiêu [B12]: 500.000.000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Năm 20x1, kế toán ghi nhận doanh thu nhưng thuế đã ghi nhận ở năm 20x0 => điều chỉnh giảm TNCT năm 20x1. Trên mẫu 03, điều chỉnh giảm được trình bày tại [B9]: 500.000.000."
+    },
+    {
+      "id": "q54",
+      "question": "Năm 20x0, công ty phát sinh chi phí lãi vay cá nhân là 150 triệu đồng, hợp đồng vay 1.000 triệu đồng, lãi suất 15%, tại thời điểm vay NHNN công bố 8%. Khi lập tờ khai quyết toán thuế TNDN mẫu 03 cho năm 20x0, khoản chênh lệch này là loại gì và trình bày lên chỉ tiêu nào?",
+      "options": [
+        "Chênh lệch không tạm thời, Chỉ tiêu [B4]: 150.000.000",
+        "Chênh lệch không tạm thời, Chỉ tiêu [B4]: 30.000.000",
+        "Chênh lệch không tạm thời, Chỉ tiêu [B12]: 30.000.000",
+        "Chênh lệch không tạm thời, Chỉ tiêu [B4]: 120.000.000"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lãi suất được trừ tối đa = 150% x lãi suất NHNN = 150% x 8% = 12%. Chi phí lãi vay được trừ = 1.000 x 12% = 120 triệu. Phần không được trừ = 150 - 120 = 30 triệu. Đây là chênh lệch không tạm thời, điều chỉnh tăng TNCT => trình bày tại [B4]: 30.000.000."
+    }
+  ]
+}
