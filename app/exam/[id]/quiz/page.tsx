@@ -2,8 +2,16 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getExam } from "@/lib/exams";
 import QuizRunner, { type QuizMode } from "./QuizRunner";
+import AllAtOnce from "./AllAtOnce";
 
-const VALID_MODES: QuizMode[] = ["sequential", "random", "repeat"];
+const VALID_MODES: QuizMode[] = ["sequential", "random", "repeat", "all-at-once"];
+
+const MODE_LABELS: Record<QuizMode, string> = {
+  sequential: "Tuần tự",
+  random: "Ngẫu nhiên",
+  repeat: "Lặp lại",
+  "all-at-once": "Làm tất cả",
+};
 
 export default async function QuizPage({
   params,
@@ -35,15 +43,14 @@ export default async function QuizPage({
             {exam.title}
           </h1>
           <p className="mt-1 text-sm text-zinc-500">
-            Chế độ:{" "}
-            {mode === "sequential"
-              ? "Tuần tự"
-              : mode === "random"
-                ? "Ngẫu nhiên"
-                : "Lặp lại"}
+            Chế độ: {MODE_LABELS[mode]}
           </p>
         </header>
-        <QuizRunner exam={exam} mode={mode} />
+        {mode === "all-at-once" ? (
+          <AllAtOnce exam={exam} />
+        ) : (
+          <QuizRunner exam={exam} mode={mode} />
+        )}
       </main>
     </div>
   );

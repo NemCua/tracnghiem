@@ -28,6 +28,12 @@ export default async function ExamPage({
       description:
         "Lặp vô hạn — sau khi hết câu hỏi sẽ quay lại từ đầu để luyện thuộc.",
     },
+    {
+      key: "all-at-once",
+      title: "Làm tất cả",
+      description:
+        "Hiển thị toàn bộ câu hỏi, chọn đáp án rồi nhấn Hoàn thành để xem kết quả.",
+    },
   ] as const;
 
   return (

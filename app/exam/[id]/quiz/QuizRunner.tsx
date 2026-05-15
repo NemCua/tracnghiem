@@ -4,7 +4,7 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 import type { Exam, Question } from "@/lib/exams";
 
-export type QuizMode = "sequential" | "random" | "repeat";
+export type QuizMode = "sequential" | "random" | "repeat" | "all-at-once";
 
 function shuffle<T>(arr: T[]): T[] {
   const a = arr.slice();
