@@ -33,13 +33,16 @@ export async function getExams(): Promise<Exam[]> {
 }
 
 export async function getExam(id: string): Promise<Exam | null> {
-  try {
-    const raw = await fs.readFile(
-      path.join(EXAMS_DIR, `${id}.json`),
-      "utf-8",
-    );
-    return JSON.parse(raw) as Exam;
-  } catch {
-    return null;
+  const files = await fs.readdir(EXAMS_DIR);
+  for (const f of files) {
+    if (!f.endsWith(".json")) continue;
+    try {
+      const raw = await fs.readFile(path.join(EXAMS_DIR, f), "utf-8");
+      const exam = JSON.parse(raw) as Exam;
+      if (exam.id === id) return exam;
+    } catch {
+      // skip unreadable/invalid files
+    }
   }
+  return null;
 }
