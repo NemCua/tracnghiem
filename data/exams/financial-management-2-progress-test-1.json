@@ -1,0 +1,270 @@
+{
+  "id": "financial-management-2-progress-test-1",
+  "title": "Financial Management 2 - Progress Test 1",
+  "description": "Đề trắc nghiệm Financial Management 2 - Progress Test 1 (Exam Code 106), gồm 24 câu hỏi.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Why is short-term finance considered less risky than long-term finance?",
+      "options": [
+        "Because it does not require any interest payments.",
+        "Because its duration is only for a shorter period of time.",
+        "[The original exam does not print option C.]",
+        "Because it is only provided by international banks."
+      ],
+      "correctIndex": 1,
+      "explanation": "Trong phạm vi kiến thức của đề, thời hạn ngắn làm giảm khoảng thời gian chịu biến động và bất định, nên phương án B là phù hợp nhất. Đề gốc không cung cấp phương án C."
+    },
+    {
+      "id": "q2",
+      "question": "What is the main purpose of an overdraft?",
+      "options": [
+        "To provide a stable long-term capital structure.",
+        "To finance major fixed asset acquisitions.",
+        "To cover short-term deficits in cash flows from normal business operations.",
+        "To reduce the interest rate of existing bank loans from normal business operations."
+      ],
+      "correctIndex": 2,
+      "explanation": "Overdraft (thấu chi) là hạn mức cho phép tài khoản chi vượt số dư trong ngắn hạn. Mục đích chính là bù đắp thiếu hụt tiền tạm thời phát sinh trong hoạt động kinh doanh bình thường, không phải tài trợ tài sản dài hạn."
+    },
+    {
+      "id": "q3",
+      "question": "Which statement correctly distinguishes a short-term loan from an overdraft facility?",
+      "options": [
+        "A short-term loan is drawn in full at the beginning of the loan period, whereas an overdraft can be used flexibly up to an agreed limit.",
+        "An overdraft requires a fixed installment repayment schedule, while a short-term loan does not.",
+        "A short-term loan is arranged more quickly and offers more flexibility than an overdraft.",
+        "An overdraft is for a fixed amount, while a short-term loan depends on the size of the facility."
+      ],
+      "correctIndex": 0,
+      "explanation": "Khoản vay ngắn hạn thường được giải ngân một lần theo số tiền đã thỏa thuận. Thấu chi chỉ được sử dụng khi cần và có thể rút linh hoạt trong phạm vi hạn mức."
+    },
+    {
+      "id": "q4",
+      "question": "Apex Co has a 4% convertible bond in issue, with a nominal value of $100. Each bond can be converted into 20 ordinary shares at any time over the next 4 years. The bond is currently trading at $115 (ex-interest), and the share price is currently $4.50. What is the conversion value of the bond?",
+      "options": ["$80.00", "$90.00", "$100.00", "$115.00"],
+      "correctIndex": 1,
+      "explanation": "Conversion value = 20 shares x $4.50 = $90.00. Giá thị trường hiện tại của trái phiếu $115 không được dùng để tính conversion value."
+    },
+    {
+      "id": "q5",
+      "question": "Zenith Co has a 5% convertible bond in issue, with a nominal value of $100. Each bond can be converted into 30 ordinary shares at any time over the next 3 years. The bond is currently trading at $135 (ex-interest), and the share price is currently $3.60. What is the conversion premium of the bond?",
+      "options": ["$7.00", "$72.00", "$35.00", "$27.00"],
+      "correctIndex": 3,
+      "explanation": "Conversion value = 30 x $3.60 = $108. Conversion premium = $135 - $108 = $27.00."
+    },
+    {
+      "id": "q6",
+      "question": "A company issues 800,000 of loan notes in 20X3, at a price of $45 per $100 nominal value. The coupon rate of interest is very low compared with yields on conventional loan notes with the same maturity. These deep discount loan notes are redeemable at nominal value in the year 20Y1. What is the redemption amount that the company must repay to investors at maturity in 20Y1?",
+      "options": ["$360,000", "$440,000", "$800,000", "$1,777,778"],
+      "correctIndex": 2,
+      "explanation": "Tổng mệnh giá loan notes là $800,000 và được hoàn trả theo nominal value, nên số tiền hoàn trả khi đáo hạn là $800,000."
+    },
+    {
+      "id": "q7",
+      "question": "A company issues 1,200,000 of deep discount loan notes in 20X4, at an issue price of $55 per $100 nominal value. The coupon rate is extremely low, and the notes will be redeemed at nominal value in 20Y2. Given that the annual coupon rate is extremely low, why would investors find these deep discount loan notes attractive?",
+      "options": [
+        "Investors receive high annual dividend payouts from the company instead of interest received from the bank.",
+        "Investors are guaranteed to convert these loan notes into ordinary shares at a premium price.",
+        "Investors receive a significant capital gain at maturity from the difference between the discounted issue price and the nominal redemption value.",
+        "Investors are legally exempt from paying any transaction fees or brokerage costs."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhà đầu tư mua ở mức $55 cho mỗi $100 mệnh giá nhưng được hoàn trả $100 khi đáo hạn. Phần chênh lệch $45 tạo ra capital gain lớn, bù lại coupon hằng năm rất thấp."
+    },
+    {
+      "id": "q8",
+      "question": "A company issues 500,000 of deep discount loan notes in 20X5, at a price of $40 per $100 nominal value. These loan notes are redeemable at nominal value in the year 20Y3. Excluding the annual coupon interest payments, what is the total dollar amount of capital gain (loss) that the company commits to pay back to investors at the maturity date in 20Y3?",
+      "options": ["$200,000", "$300,000", "$500,000", "$700,000"],
+      "correctIndex": 1,
+      "explanation": "Số tiền nhà đầu tư trả ban đầu = $500,000 x 40/100 = $200,000. Capital gain = $500,000 - $200,000 = $300,000."
+    },
+    {
+      "id": "q9",
+      "question": "Which of the following statements is true regarding the cancellation condition of a long-term lease arrangement?",
+      "options": [
+        "The agreement cannot be cancelled, and the lessee remains liable for all contract payments.",
+        "The lease can be canceled at any time if the lessee finds a better alternative asset.",
+        "Cancellation is permitted only if the lessor decides to sell the asset to a third party.",
+        "The lease period automatically terminates if the asset's useful life exceeds expectations."
+      ],
+      "correctIndex": 0,
+      "explanation": "Một đặc điểm điển hình của long-term/finance lease là hợp đồng không thể hủy ngang trong thời hạn thuê; bên thuê vẫn phải chịu trách nhiệm với các khoản thanh toán theo hợp đồng."
+    },
+    {
+      "id": "q10",
+      "question": "Based on the characteristics of a long-term lease, which statement correctly describes the relationship between the lease duration and the parties involved?",
+      "options": [
+        "The lease period is independent of the useful life of the asset and can be adjusted annually to review the lease contract.",
+        "The lease arrangement is primarily used for short-term assets that have volatile market values.",
+        "The lessor retains all the rewards of ownership while transferring all risks to the lessee.",
+        "One lease exists for the whole useful life of the asset, and the lessor usually does not deal directly in this type of asset."
+      ],
+      "correctIndex": 3,
+      "explanation": "Trong long-term finance lease, thời hạn thuê thường bao phủ phần lớn hoặc toàn bộ đời sống hữu ích của tài sản. Lessor chủ yếu đóng vai trò nhà tài trợ vốn."
+    },
+    {
+      "id": "q11",
+      "question": "What are internally-generated funds specifically defined as?",
+      "options": [
+        "Funds borrowed from commercial banks for short-term operational deficits.",
+        "Professional financial assistance provided by investment banking institutions and ordinary shareholders.",
+        "Capital raised by issuing new ordinary shares to external investors.",
+        "Earnings retained in the business, which are undistributed profits attributable to ordinary shareholders."
+      ],
+      "correctIndex": 3,
+      "explanation": "Internally-generated funds là nguồn vốn hình thành bên trong doanh nghiệp, điển hình là retained earnings - lợi nhuận thuộc cổ đông thường nhưng được giữ lại thay vì phân phối dưới dạng cổ tức."
+    },
+    {
+      "id": "q12",
+      "question": "Which administrative and operational outcomes are internally-generated funds created?",
+      "options": [
+        "By cutting down employee wages and decreasing inventory supplies.",
+        "As a result of increased working capital management efficiency and successful projects.",
+        "By delaying the payment of dividends to preferred shareholders indefinitely.",
+        "From mandatory transaction fees imposed on conventional loan notes."
+      ],
+      "correctIndex": 1,
+      "explanation": "Nguồn vốn nội bộ tăng lên khi doanh nghiệp hoạt động hiệu quả: quản trị vốn lưu động tốt hơn, dự án sinh lời và tạo lợi nhuận giữ lại."
+    },
+    {
+      "id": "q13",
+      "question": "Which of the following is highlighted as a distinct operational advantage of using retained earnings compared to external financing?",
+      "options": [
+        "It offers investors a guaranteed high fixed rate of return.",
+        "It is drawn in full at the beginning of a fixed term period.",
+        "It shifts all risks and rewards of asset ownership entirely to a lessor.",
+        "It requires no transaction costs, professional assistance, or time delay."
+      ],
+      "correctIndex": 3,
+      "explanation": "Retained earnings đã nằm trong doanh nghiệp nên không cần phát hành chứng khoán, thương lượng với bên cho vay hay trả phí tư vấn/phát hành."
+    },
+    {
+      "id": "q14",
+      "question": "Which statement best describes the availability of internally-generated funds as a financing option for a business?",
+      "options": [
+        "They can only be accessed after a long period of negotiation with commercial lenders.",
+        "They are a strictly limited, one-time financing facility available only at the time of issuance.",
+        "They serve as a continual source of new funds and are easy to raise.",
+        "They are highly risky because their duration is restricted to a very short period of time."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi doanh nghiệp liên tục tạo lợi nhuận và giữ lại một phần, vốn nội bộ có thể trở thành nguồn tài trợ lặp lại và dễ sử dụng."
+    },
+    {
+      "id": "q15",
+      "question": "A company announces a rights issue on a two for three basis at a price of 150c per share. This means existing shareholders are invited to subscribe for two new shares for every three shares they currently hold. If a shareholder currently owns 1,500 shares in the company, how many new shares are they entitled to buy, and what is the total cash amount they need to pay to fully exercise their rights?",
+      "options": [
+        "500 new shares; total cash of 75,000c",
+        "1,000 new shares; total cash of 150,000c",
+        "1,000 new shares; total cash of 225,000c",
+        "3,000 new shares; total cash of 450,000c"
+      ],
+      "correctIndex": 1,
+      "explanation": "Số cổ phiếu mới được mua = 1,500 x 2/3 = 1,000 cổ phiếu. Tổng tiền = 1,000 x 150c = 150,000c."
+    },
+    {
+      "id": "q16",
+      "question": "Which of the following correctly summarizes a key advantage and a key disadvantage of preference shares compared to ordinary shares?",
+      "options": [
+        "Advantage: It offers full tax relief; Disadvantage: It causes a major dilution of control.",
+        "Advantage: It is drawn in full at the beginning; Disadvantage: It has a higher interest rate than a bank loan.",
+        "Advantage: There is no dilution of control; Disadvantage: It creates extra risk for ordinary shareholders regarding dividend priority.",
+        "Advantage: It is an uncontrollable source of funds; Disadvantage: It requires permanent collateral."
+      ],
+      "correctIndex": 2,
+      "explanation": "Preference shareholders thường không có quyền biểu quyết nên không làm pha loãng quyền kiểm soát. Tuy nhiên cổ tức ưu đãi được ưu tiên trước cổ tức thường."
+    },
+    {
+      "id": "q17",
+      "question": "Preference shares carry voting rights under which condition?",
+      "options": [
+        "Except in exceptional circumstances.",
+        "Only when the company is financed entirely by long-term leases.",
+        "Never, under any circumstances whatsoever.",
+        "At any time the company manages its working capital efficiently."
+      ],
+      "correctIndex": 0,
+      "explanation": "Thông thường preference shares không có quyền biểu quyết, nhưng có thể được trao quyền biểu quyết trong một số tình huống đặc biệt."
+    },
+    {
+      "id": "q18",
+      "question": "How does the issuance of preference shares affect ordinary shareholders in terms of risk?",
+      "options": [
+        "It completely removes any financial risks for ordinary shareholders.",
+        "It shifts all transaction costs and professional assistance fees to the lessor.",
+        "It reduces risk by guaranteeing that ordinary dividends will always be paid first.",
+        "It creates extra risk because the preference dividend has to be paid before ordinary dividend."
+      ],
+      "correctIndex": 3,
+      "explanation": "Preference dividend có thứ tự ưu tiên cao hơn ordinary dividend. Cổ đông thường chỉ nhận phần còn lại sau khi nghĩa vụ với cổ đông ưu đãi được đáp ứng."
+    },
+    {
+      "id": "q19",
+      "question": "What is a major disadvantage of preference shares when compared directly to debt finance?",
+      "options": [
+        "They cause an immediate dilution of control for existing owners.",
+        "They carry a fixed maturity date that cannot be extended.",
+        "No tax relief is received on dividend payments.",
+        "They require the company to pay mandatory interest even during losses."
+      ],
+      "correctIndex": 2,
+      "explanation": "Cổ tức preference shares được trả từ lợi nhuận sau thuế và không được khấu trừ khi tính thuế. Ngược lại, lãi vay thường tạo tax shield."
+    },
+    {
+      "id": "q20",
+      "question": "Why do preference shares result in 'no dilution of control' for ordinary shareholders?",
+      "options": [
+        "Because preference shares carry no voting rights except in exceptional circumstances.",
+        "Because preference shares are automatically converted into debt after one year.",
+        "Because preference shareholders are not allowed to receive any dividends.",
+        "Because the number of preference shares issued can never exceed ordinary shares."
+      ],
+      "correctIndex": 0,
+      "explanation": "Quyền kiểm soát doanh nghiệp gắn chủ yếu với quyền biểu quyết. Preference shares thường không có quyền biểu quyết nên nhìn chung không làm giảm quyền kiểm soát của ordinary shareholders."
+    },
+    {
+      "id": "q21",
+      "question": "Based on the creditor hierarchy pyramid, which of the following lists the stakeholders in order of increasing risk (from lowest risk to highest risk)?",
+      "options": [
+        "Ordinary shareholders -> Preference shareholders -> Debt finance",
+        "Preference shareholders -> Debt finance -> Ordinary shareholders",
+        "Ordinary shareholders -> Debt finance -> Preference shareholders",
+        "Debt finance -> Preference shareholders -> Ordinary shareholders"
+      ],
+      "correctIndex": 3,
+      "explanation": "Debt holders được ưu tiên thanh toán trước nên rủi ro thấp nhất. Preference shareholders đứng sau chủ nợ nhưng trước ordinary shareholders."
+    },
+    {
+      "id": "q22",
+      "question": "How is the risk distributed among the different types of creditors from highest to lowest risk?",
+      "options": [
+        "Unsecured creditors -> Creditors with a floating charge -> Creditors with a fixed charge",
+        "Creditors with a fixed charge -> Creditors with a floating charge -> Unsecured creditors",
+        "Creditors with a floating charge -> Unsecured creditors -> Creditors with a fixed charge",
+        "Unsecured creditors -> Creditors with a fixed charge -> Creditors with a floating charge"
+      ],
+      "correctIndex": 0,
+      "explanation": "Unsecured creditors không có tài sản bảo đảm nên rủi ro cao nhất. Floating charge đứng giữa; fixed charge gắn với tài sản xác định nên có mức bảo vệ cao nhất."
+    },
+    {
+      "id": "q23",
+      "question": "Sigma Co has just paid a dividend of 80c and has a market value of $6.20. The dividend growth rate is 7%. What is Sigma Co's cost of equity?",
+      "options": ["20.8%", "19.9%", "12.9%", "13.8%"],
+      "correctIndex": 0,
+      "explanation": "Ke = D1/P0 + g. D1 = $0.80 x 1.07 = $0.856. Ke = 0.856/6.20 + 0.07 = 20.8% (xấp xỉ)."
+    },
+    {
+      "id": "q24",
+      "question": "Which of the following best describes the scope and impact of unsystematic risk on the business environment?",
+      "options": [
+        "It is a market-wide risk factor that alters the capital structure and transaction costs of all corporations simultaneously.",
+        "It uniformly harms all sectors during seasonal shifts, forcing the majority of businesses to suffer identical financial losses.",
+        "Its impact is unique to an individual company or restricted to a small number of companies, making no difference to the majority of businesses.",
+        "It represents a component of risk that remains completely unchanged regardless of whether a company is a raincoat or sunglasses manufacturer."
+      ],
+      "correctIndex": 2,
+      "explanation": "Unsystematic risk là rủi ro riêng của một doanh nghiệp hoặc một nhóm nhỏ doanh nghiệp. Nó không tác động đồng đều lên toàn thị trường và có thể giảm bằng đa dạng hóa."
+    }
+  ]
+}
